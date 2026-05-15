@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "esbenp.prettier-vscode",
+    "davidanson.vscode-markdownlint",
+    "chrischinchilla.vale-vscode",
+    "editorconfig.editorconfig"
+  ]
+}

@@ -1,0 +1,12 @@
+extends: existence
+message: "Avoid '%s' — it can sound patronizing to readers."
+level: warning
+ignorecase: true
+tokens:
+  - easy
+  - simple
+  - simply
+  - just
+  - obviously
+  - merely
+  - of course

@@ -1,0 +1,12 @@
+extends: substitution
+message: "Use '%s' instead of '%s' for consistency."
+level: warning
+ignorecase: false
+swap:
+  Theme Options: Customizer
+  theme options: Customizer
+  sample data: demo content
+  Side Panel: sidebar
+  side panel: sidebar
+  nav bar: menu
+  navigation bar: menu

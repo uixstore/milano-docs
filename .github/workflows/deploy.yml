@@ -1,0 +1,66 @@
+name: Deploy docs
+
+on:
+  # Auto-deploy on push to `main` is disabled until VPS secrets are configured.
+  # To re-enable: uncomment the `push:` trigger below. Secrets needed:
+  # VPS_SSH_HOST, VPS_SSH_USER, VPS_SSH_KEY, VPS_DEPLOY_PATH,
+  # VPS_SSH_PORT (optional), CLOUDFLARE_ZONE_ID, CLOUDFLARE_API_TOKEN.
+  # push:
+  #   branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  VPS_SSH_PORT: ${{ secrets.VPS_SSH_PORT || '22' }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # needed for Starlight `lastUpdated` from git history
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build site
+        run: pnpm build
+
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.VPS_SSH_KEY }}
+
+      - name: Add VPS to known_hosts
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan -p "$VPS_SSH_PORT" -H "${{ secrets.VPS_SSH_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Deploy via rsync
+        run: |
+          rsync -avz --delete \
+            -e "ssh -p $VPS_SSH_PORT" \
+            ./dist/ \
+            "${{ secrets.VPS_SSH_USER }}@${{ secrets.VPS_SSH_HOST }}:${{ secrets.VPS_DEPLOY_PATH }}"
+
+      - name: Purge Cloudflare cache
+        run: |
+          curl --silent --show-error --fail \
+            -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/purge_cache" \
+            -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --data '{"prefixes":["docs.uix.store/milano/"]}'

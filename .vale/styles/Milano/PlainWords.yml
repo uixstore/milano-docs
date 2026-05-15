@@ -1,0 +1,18 @@
+extends: substitution
+message: "Prefer '%s' over '%s' for plain language."
+level: suggestion
+ignorecase: true
+swap:
+  utilize: use
+  utilizes: uses
+  assist: help
+  assists: helps
+  purchase: buy
+  purchases: buys
+  initiate: start
+  initiates: starts
+  regarding: about
+  modify: change
+  modifies: changes
+  in order to: to
+  at this point: now
