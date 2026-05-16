@@ -66,7 +66,7 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 ### Step 6 — Getting Started content
 
 - ✅ Brief is locked in PLAN.md — all Milano-specific inputs provided
-- ⏳ No pages drafted yet
+- ✅ All 5 pages drafted: Before you begin, Install Milano, Register purchase code, Install required plugins, First-time setup checklist
 
 ### Step 8 — Launch Checklist
 
