@@ -16,6 +16,11 @@ For current implementation state — what's built, what's deferred, what's block
 | Distribution     | ThemeForest / marketplace                                                                             |
 | Scope            | Install → Customizer → Header/Footer Builder → WooCommerce → Modules → all the way to advanced topics |
 | Hosting URL      | `https://docs.uix.store/milano/` (subdirectory on existing docs subdomain)                            |
+| Required plugins | WooCommerce, Elementor                                                                                |
+| Purchase code    | **Milano → Dashboard → License**                                                                      |
+| Plugin installer | TGMPA + Milano's own installer                                                                        |
+| Demo importer    | Milano's own importer                                                                                 |
+| WP / PHP minimum | WP ≥ 5.9, PHP ≥ 7.4                                                                                   |
 
 ---
 
@@ -105,7 +110,7 @@ Exact form depends on the existing config — confirm before applying.
 - [ ] SSH user and port on the VPS
 - [ ] Whether Cloudflare cache rules / page rules already exist for `docs.uix.store` that might conflict
 - [ ] Whether existing `docs.uix.store` Nginx config can be edited or if a drop-in include is preferred
-- [ ] **Re-enable `push: [main]` trigger in `.github/workflows/deploy.yml`** once VPS is provisioned and all 7 secrets are added to the GitHub repo. Workflow is currently gated to `workflow_dispatch` (manual only) to avoid failing runs during the setup phase.
+- [ ] **Re-enable `push: [main]` trigger in `.github/workflows/deploy.yml`** once VPS is provisioned and all 7 secrets are added to the GitHub repo. Workflow is currently gated to `workflow_dispatch` (manual only) to avoid failing runs during the setup phase. **VPS provisioning deferred until content is ready for deploy.**
 
 ---
 
@@ -117,7 +122,7 @@ Exact form depends on the existing config — confirm before applying.
 
 - **Separate GitHub repo**, not a subfolder of the Milano theme (different stack, release cadence, audience).
 - **Repo name**: `milano-docs`
-- **Visibility**: **Private** — protects unreleased screenshots and draft content.
+- **Visibility**: **Public** (originally planned as private; switched for easier sharing during development).
 - **Default branch**: `main` (= production). All work via feature branches + PRs. No `develop` branch.
 
 ### Tech baseline
@@ -611,11 +616,11 @@ Sections:
 
 ### Open items — inputs needed from user before drafting
 
-- [ ] **Required + recommended plugins list** — names, versions, bundled vs external.
-- [ ] **Purchase-code UI in Milano** — exact WP admin location and screen.
-- [ ] **Plugin installer method** — TGM Plugin Activation, Milano's own installer, or vanilla Plugins screen.
-- [ ] **Demo importer** — Milano's own importer, "One Click Demo Import" plugin, or other.
-- [ ] **Required WordPress and PHP versions** — confirm from theme metadata before locking page 1 (currently using `style.css` declared minimums: WP 5.9, PHP 7.4).
+- ✅ **Required plugins**: WooCommerce, Elementor.
+- ✅ **Purchase-code UI in Milano**: **Milano → Dashboard → License**.
+- ✅ **Plugin installer method**: TGMPA + Milano's own installer.
+- ✅ **Demo importer**: Milano's own importer.
+- ✅ **Required WordPress and PHP versions**: WP ≥ 5.9, PHP ≥ 7.4.
 
 ## Step 7 — Versioning Strategy
 

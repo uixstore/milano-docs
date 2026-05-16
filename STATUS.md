@@ -11,8 +11,8 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 - Quality gates in place: Prettier, markdownlint, husky pre-commit, Vale config skeleton.
 - GitHub Actions deploy workflow written (`.github/workflows/deploy.yml`).
 - Build verified: 20 pages generated locally; both Prettier and markdownlint pass clean.
-- Git initialised on `main`; **nothing committed yet**.
-- No GitHub remote, no VPS provisioning, no deploys yet.
+- Git initialised on `main` and pushed to a **public** GitHub repo `milano-docs`.
+- No VPS provisioning, no deploys yet.
 
 ## What's implemented (by plan step)
 
@@ -20,8 +20,8 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 
 - ✅ `.github/workflows/deploy.yml` — checkout, pnpm install, build, SSH agent, rsync, Cloudflare purge scoped to `/milano/*`
 - ⚠️ Workflow trigger temporarily limited to `workflow_dispatch` (manual only). `push: [main]` trigger is commented out in the YAML to avoid failing runs while VPS secrets are missing. **Re-enable after secrets land.**
-- ⏳ GitHub secrets — not added (no remote yet)
-- ⏳ VPS infrastructure — Nginx block, deploy directory, deploy key not provisioned
+- ⏳ GitHub secrets — not added (VPS provisioning deferred until content is ready)
+- ⏳ VPS infrastructure — deferred until content is ready to deploy
 - ⏳ First deploy — not run
 
 ### Step 2 — Repository Structure & Bootstrap
@@ -65,8 +65,8 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 
 ### Step 6 — Getting Started content
 
-- ⏳ Brief is locked in PLAN.md
-- ⏳ No pages drafted yet (blocked on Milano-specific inputs — see below)
+- ✅ Brief is locked in PLAN.md — all Milano-specific inputs provided
+- ⏳ No pages drafted yet
 
 ### Step 8 — Launch Checklist
 
@@ -90,21 +90,20 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 
 Grouped by what they unlock.
 
-### To make the first deploy (Step 8.A/B — private deploy phase)
+### To make the first deploy (Step 8.A/B — private deploy phase) — **DEFERRED until content is ready**
 
 - VPS deploy path on `docs.uix.store` (existing convention for sibling docs)
 - VPS SSH user, host, and port
-- Private GitHub repo `milano-docs` created and added as remote
 - 7 GitHub secrets: `VPS_SSH_HOST`, `VPS_SSH_USER`, `VPS_SSH_KEY`, `VPS_DEPLOY_PATH`, `VPS_SSH_PORT` (optional), `CLOUDFLARE_ZONE_ID`, `CLOUDFLARE_API_TOKEN`
 - Nginx `location /milano/` block added to existing `docs.uix.store` server
 
 ### To start drafting Getting Started content (Step 6)
 
-- Required + recommended plugins list (names, versions, bundled vs external)
-- Where users register their purchase code in Milano's admin (exact screen + path)
-- Plugin installer method (TGM / Milano's own / vanilla `Plugins` screen)
-- Demo importer name (Milano's own / "One Click Demo Import" / other)
-- Confirm WordPress and PHP minimum versions
+- ✅ Required plugins: WooCommerce, Elementor
+- ✅ Purchase code screen: **Milano → Dashboard → License**
+- ✅ Plugin installer: TGMPA + Milano's own installer
+- ✅ Demo importer: Milano's own importer
+- ✅ WP minimum: 5.9; PHP minimum: 7.4
 
 ### To finalise visual polish
 
@@ -131,11 +130,13 @@ pnpm dev           # local preview at http://localhost:4321/milano/
 
 Suggested next sessions, in priority order:
 
-1. **Commit + push** — create the private GitHub repo `milano-docs`, push the scaffold.
-2. **Provision the VPS** — deploy directory, Nginx block, SSH key, add GitHub secrets. Run the first deploy with `robots.txt` blocking indexing (private-deploy phase from Step 8.B).
+1. ~~**Commit + push** — create the private GitHub repo `milano-docs`, push the scaffold.~~ ✅ **Done** (public repo).
+2. ~~**Provision the VPS** — deploy directory, Nginx block, SSH key, add GitHub secrets.~~ **Deferred** until content is ready.
 3. **Gather Milano-specific inputs** for Step 6 and draft Page 2 (Install Milano) — the template-setter for every other how-to.
 4. **Brand polish** — drop in the accent colour, logo, and favicon.
-5. **Write remaining sections** — work through the 18-section tree, leaning on the Page 2 template.
+5. **Define demo store persona** — store name, currency, 6 products with names/prices/images, customer placeholder.
+6. **Write remaining sections** — work through the 18-section tree, leaning on the Page 2 template.
+7. **Provision VPS & deploy** — when content is ready for private review.
 
 ## Open questions to keep in mind
 
