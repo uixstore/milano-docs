@@ -54,4 +54,4 @@ If the installer does not appear, install the plugins yourself:
 
 With all required plugins installed and active, you are ready to import a demo or start building from scratch.
 
-Next: [Import a demo](../../demos/import-a-demo/) or jump to the [First-time setup checklist](../first-time-setup-checklist/).
+Next: [Import a demo](../../demos/) or jump to the [First-time setup checklist](../first-time-setup-checklist/).
