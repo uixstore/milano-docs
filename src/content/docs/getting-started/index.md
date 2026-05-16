@@ -1,6 +1,8 @@
 ---
 title: Getting Started
 description: Install Milano, register your purchase code, install required plugins, and finish your first-time setup.
+sidebar:
+  order: 1
 ---
 
 Get Milano installed and running on your WordPress site. This section takes you from a fresh WordPress install to a working theme in about 30 minutes.
