@@ -10,7 +10,7 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 - All 18 sections wired into the sidebar with stub `index.md` pages.
 - Quality gates in place: Prettier, markdownlint, husky pre-commit, Vale config skeleton.
 - GitHub Actions deploy workflow written (`.github/workflows/deploy.yml`).
-- Build verified: 28 pages generated locally; both Prettier and markdownlint pass clean.
+- Build verified: 26 pages generated locally; both Prettier and markdownlint pass clean.
 - Git initialised on `main` and pushed to a **public** GitHub repo `milano-docs`.
 - No VPS provisioning, no deploys yet.
 
@@ -56,17 +56,23 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 - ✅ All 18 top-level sections in `astro.config.mjs` sidebar (using `items: [{ autogenerate: ... }]` per Starlight 0.39 syntax)
 - ✅ All 18 section folders with `index.md` stub pages (frontmatter + "being written" body)
 - ✅ Homepage `src/content/docs/index.mdx` — splash template with hero + 4-card grid linking to top sections
-- ⏳ Sub-pages (per the full Step 4 nav tree) — Getting Started and Demos sections complete; other sections not started
+- ⏳ Sub-pages (per the full Step 4 nav tree) — Getting Started and Import Demo sections complete; other sections not started
 
 ### Step 5 — Screenshot & Asset Standards
 
-- ✅ `src/assets/` directory reserved with placeholder images for Getting Started section
+- ✅ `src/assets/` directory reserved with placeholder images for Getting Started and Import Demo sections
 - ⏳ Real screenshots deferred until Milano is running on a live WordPress install
 
 ### Step 6 — Getting Started content
 
 - ✅ Brief is locked in PLAN.md — all Milano-specific inputs provided
-- ✅ All 5 pages drafted: Before you begin, Install Milano, Register purchase code, Install required plugins, First-time setup checklist
+- ✅ All 6 pages drafted: landing page, Before you begin, Install Milano, Register purchase code, Install required plugins, First-time setup checklist
+
+### Import Demo section (deviation from PLAN.md Step 4 nav tree)
+
+- ✅ Section renamed from "Demos" to "Import Demo" (folder: `import-demo/`)
+- ✅ 2 pages: landing/overview (sidebar label: "Overview") and Import a demo
+- ✅ Demos catalog page removed — not needed per user decision
 
 ### Step 8 — Launch Checklist
 

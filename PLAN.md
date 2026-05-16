@@ -138,7 +138,7 @@ milano-docs/
 ├── astro.config.mjs          # site, base: '/milano', sidebar config
 ├── package.json
 ├── pnpm-lock.yaml
-├── .nvmrc                    # "20"
+├── .nvmrc                    # "22"
 ├── .editorconfig
 ├── .gitignore
 ├── .prettierrc
@@ -335,10 +335,10 @@ Direction: **concise, friendly, nothing fancy.**
     ├── Install required plugins
     └── First-time setup checklist
 
-2.  Demos
-    ├── Demos overview
-    ├── Import a demo (one-click)
-    └── Demos catalog          (one page per demo)
+2.  Import Demo (renamed from "Demos")
+    ├── Import demo overview    (section index; sidebar label: "Overview")
+    └── Import a demo (one-click)
+        └── ~~Demos catalog~~  (removed — not needed)
 
 3.  Homepages
     ├── Homepages overview
