@@ -1,29 +1,12 @@
 ---
-title: Import Demo
+title: Import a demo
 description: Import a Milano demo in one click using the built-in demo importer.
+sidebar:
+  order: 2
+draft: false
 ---
 
-Milano ships with several pre-built demos you can import in one click. Each demo includes pages, content, images, and Customizer settings — giving you a working site in minutes.
-
-## What a demo import includes
-
-When you import a demo, Milano installs:
-
-- **Pages** — all the demo pages with their content and layout.
-- **Customizer settings** — colors, typography, header/footer layout, and other theme options.
-- **Menus** — primary and footer menus matching the demo structure.
-- **Widgets** — sidebar and footer widget areas populated with demo content.
-- **Demo content** — sample products, blog posts, and portfolio items (if the demo includes them).
-
-## What a demo import does not change
-
-- **Your plugins** — demo imports do not install or remove plugins. Make sure WooCommerce and Elementor are installed before importing.
-- **Your existing content** — if you already have pages or posts, the demo adds to them rather than replacing them.
-- **Your WordPress settings** — site title, tagline, permalinks, and other core settings stay as you set them.
-
-:::caution
-Import a demo on a fresh WordPress install for the best results. If you already have content, back up your site first — the demo adds pages and settings that may conflict with existing data.
-:::
+Milano includes its own demo importer. You can import a full demo or pick specific parts (content, Customizer settings, widgets) to import separately.
 
 ## Before you begin
 
@@ -35,7 +18,7 @@ Import a demo on a fresh WordPress install for the best results. If you already 
 
 1. Go to **Milano → Demos** in your WordPress admin.
 
-   ![Milano Demos screen showing available demo cards](../../../assets/demos/import-a-demo/demos-screen.png)
+   ![Milano Demos screen showing available demo cards](../../../assets/import-demo/import-a-demo/demos-screen.png)
 
    <!-- TODO(screenshot): Capture the Milano → Demos screen. Show the grid of demo cards with thumbnails. -->
 
@@ -43,13 +26,13 @@ Import a demo on a fresh WordPress install for the best results. If you already 
 
 3. A confirmation dialog appears. Click **Import** to start.
 
-   ![Demo import confirmation dialog](../../../assets/demos/import-a-demo/import-confirm.png)
+   ![Demo import confirmation dialog](../../../assets/import-demo/import-a-demo/import-confirm.png)
 
    <!-- TODO(screenshot): Capture the import confirmation dialog. Box around the "Import" button. -->
 
 4. Wait for the import to finish. You will see a progress bar for each step: installing plugins, importing content, Customizer settings, and widgets.
 
-   ![Demo import progress screen](../../../assets/demos/import-a-demo/import-progress.png)
+   ![Demo import progress screen](../../../assets/import-demo/import-a-demo/import-progress.png)
 
    <!-- TODO(screenshot): Capture the import progress screen showing the step-by-step progress bars. -->
 

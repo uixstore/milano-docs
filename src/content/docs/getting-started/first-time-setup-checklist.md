@@ -14,7 +14,7 @@ Use this checklist to make sure your Milano setup is complete. Each item links t
 - [ ] **Purchase code registered** — [Register your purchase code](../register-purchase-code/)
 - [ ] **Required plugins installed and activated** — WooCommerce and Elementor. [Install required plugins](../install-required-plugins/)
 - [ ] **Demo imported or building from scratch** — Choose one path:
-  - [Import a demo](../../demos/) — fastest way to get a working site.
+  - [Import a demo](../../import-demo/import-a-demo/) — fastest way to get a working site.
   - Build from scratch — skip to the customization steps below.
 - [ ] **Logo replaced** — [Site Identity](../../customizer/site-identity/) in the Customizer.
 - [ ] **Primary colors set** — [Colors](../../customizer/colors/) in the Customizer.
@@ -25,5 +25,5 @@ Use this checklist to make sure your Milano setup is complete. Each item links t
 
 Pick your path based on how you want to build your site:
 
-- **Start from a demo** — go to [Import Demo](../../demos/), pick a demo, and import it. Then customize it to match your brand.
+- **Start from a demo** — go to [Import Demo](../../import-demo/), pick a demo, and [import it](../../import-demo/import-a-demo/). Then customize it to match your brand.
 - **Build from scratch** — go to the [Customizer](../../customizer/customizer-overview/) and start setting your colors, typography, and layout. Then use Elementor to build your pages.

@@ -13,7 +13,7 @@ export default defineConfig({
       lastUpdated: true,
       sidebar: [
         { label: 'Getting Started', items: [{ autogenerate: { directory: 'getting-started' } }] },
-        { label: 'Import Demo', items: [{ autogenerate: { directory: 'demos' } }] },
+        { label: 'Import Demo', items: [{ autogenerate: { directory: 'import-demo' } }] },
         { label: 'Homepages', items: [{ autogenerate: { directory: 'homepages' } }] },
         { label: 'Pre-built Pages', items: [{ autogenerate: { directory: 'pre-built-pages' } }] },
         { label: 'Customizer', items: [{ autogenerate: { directory: 'customizer' } }] },
