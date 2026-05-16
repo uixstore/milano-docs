@@ -10,7 +10,7 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 - All 18 sections wired into the sidebar with stub `index.md` pages.
 - Quality gates in place: Prettier, markdownlint, husky pre-commit, Vale config skeleton.
 - GitHub Actions deploy workflow written (`.github/workflows/deploy.yml`).
-- Build verified: 25 pages generated locally; both Prettier and markdownlint pass clean.
+- Build verified: 28 pages generated locally; both Prettier and markdownlint pass clean.
 - Git initialised on `main` and pushed to a **public** GitHub repo `milano-docs`.
 - No VPS provisioning, no deploys yet.
 
@@ -56,7 +56,7 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 - ✅ All 18 top-level sections in `astro.config.mjs` sidebar (using `items: [{ autogenerate: ... }]` per Starlight 0.39 syntax)
 - ✅ All 18 section folders with `index.md` stub pages (frontmatter + "being written" body)
 - ✅ Homepage `src/content/docs/index.mdx` — splash template with hero + 4-card grid linking to top sections
-- ⏳ Sub-pages (per the full Step 4 nav tree) — Getting Started section complete (5 pages); other sections not started
+- ⏳ Sub-pages (per the full Step 4 nav tree) — Getting Started and Demos sections complete; other sections not started
 
 ### Step 5 — Screenshot & Asset Standards
 

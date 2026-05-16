@@ -25,5 +25,5 @@ Use this checklist to make sure your Milano setup is complete. Each item links t
 
 Pick your path based on how you want to build your site:
 
-- **Start from a demo** — browse the [demos catalog](../../demos/demos-catalog/), pick one, and [import it](../../demos/import-a-demo/). Then customize it to match your brand.
+- **Start from a demo** — go to [Import Demo](../../demos/), pick a demo, and [import it](../../demos/import-a-demo/). Then customize it to match your brand.
 - **Build from scratch** — go to the [Customizer](../../customizer/customizer-overview/) and start setting your colors, typography, and layout. Then use Elementor to build your pages.
