@@ -1,6 +1,6 @@
 ---
 title: Translation
-description: Translate Milano into your language with Loco, WPML, or Polylang.
+description: Translate Milano into any language using Loco Translate, WPML, or Polylang.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Translation section. Overview of translation methods and when to use each. -->

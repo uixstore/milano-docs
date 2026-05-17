@@ -1,6 +1,6 @@
 ---
 title: Theme Modules
-description: Turn Milano's optional features on or off — search popup, back-to-top, cookie notice, and more.
+description: Turn on and configure Milano's general modules like search popup, back-to-top, and cookie notice.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Theme Modules section. Overview of all available modules and how to manage them. -->

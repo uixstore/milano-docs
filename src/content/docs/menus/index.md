@@ -1,6 +1,6 @@
 ---
 title: Menus
-description: Create regular menus and mega menus that match your store's structure.
+description: Create and manage navigation menus in WordPress and Milano.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Menus section. Overview of menu locations and Milano-specific menu features. -->

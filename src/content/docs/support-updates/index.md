@@ -1,6 +1,6 @@
 ---
-title: Support & Updates
-description: Update Milano, check the changelog, and reach support when you need help.
+title: Support and Updates
+description: Milano's support policy, how to update the theme, and the changelog.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Support & Updates section. Links to support policy, update guide, and changelog. -->

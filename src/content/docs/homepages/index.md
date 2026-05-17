@@ -1,6 +1,6 @@
 ---
 title: Homepages
-description: Pick from Milano's pre-built homepage layouts and make one your front page.
+description: Set a homepage and choose from Milano's pre-built homepage layouts.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Homepages section. List available homepage layouts and how to set one as your front page. -->

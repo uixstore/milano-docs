@@ -1,6 +1,6 @@
 ---
-title: Troubleshooting & FAQ
-description: Solutions to common issues and what to do before contacting support.
+title: Troubleshooting and FAQ
+description: Fix common issues and find answers before contacting support.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Troubleshooting & FAQ section. Quick links to common issues and the support guide. -->

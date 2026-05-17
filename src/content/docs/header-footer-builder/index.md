@@ -1,6 +1,6 @@
 ---
-title: Header & Footer Builder
-description: Build your header and footer visually — desktop, mobile, sticky, and transparent.
+title: Header and Footer Builder
+description: Build custom headers and footers with Milano's drag-and-drop builder.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Header & Footer Builder section. Overview of builder elements and workflow. -->

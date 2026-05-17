@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: Configure blog layouts, post settings, and category pages.
+description: Configure blog layouts, categories, and single post settings.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Blog section. Overview of Milano's blog features and layout options. -->

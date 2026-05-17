@@ -1,6 +1,6 @@
 ---
 title: Customize Further
-description: Use child themes and custom CSS to extend Milano without losing updates.
+description: Advanced customization with child themes and custom CSS.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Customize Further section. When to use advanced methods vs the Customizer. -->

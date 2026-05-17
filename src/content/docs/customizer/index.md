@@ -1,6 +1,6 @@
 ---
 title: Customizer
-description: Set your colors, typography, layout, and identity in the WordPress Customizer.
+description: Change colors, fonts, layout, and identity options in the WordPress Customizer.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Customizer section. Overview of all Customizer panels Milano adds. -->

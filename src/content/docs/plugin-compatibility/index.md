@@ -1,6 +1,6 @@
 ---
 title: Plugin Compatibility
-description: Use Milano alongside popular plugins for SEO, translation, and more.
+description: How Milano works with popular WordPress plugins.
 ---
 
-This section is being written. Check back soon for full content.
+<!-- Brief: Landing page for the Plugin Compatibility section. Overview of tested plugins and compatibility notes. -->
