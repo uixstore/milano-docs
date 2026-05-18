@@ -26,15 +26,15 @@ Milano requires two plugins to work: WooCommerce and Elementor. After you activa
 
 After activating Milano, you will see a notice at the top of your WordPress admin asking you to install required plugins. Click **Begin installing plugins** to start.
 
-![Milano admin notice prompting you to install required plugins](../../../assets/getting-started/install-required-plugins/install-notice.png)
+![Milano admin notice prompting you to install required plugins](../../../assets/shared/placeholder.svg)
 
-<!-- TODO(screenshot): Capture the WP admin screen after activating Milano. Box around the "Begin installing plugins" notice at the top. -->
+_WP admin screen after activating Milano with the "Begin installing plugins" notice highlighted._
 
 You will see a list of required plugins with checkboxes. Select WooCommerce and Elementor, then choose **Install** from the bulk actions dropdown and click **Apply**.
 
-![Plugin installer screen with WooCommerce and Elementor listed](../../../assets/getting-started/install-required-plugins/plugin-list.png)
+![Plugin installer screen with WooCommerce and Elementor listed](../../../assets/shared/placeholder.svg)
 
-<!-- TODO(screenshot): Capture the plugin installer screen. Box around the checkboxes next to WooCommerce and Elementor, and the bulk actions dropdown. -->
+_Plugin installer screen with checkboxes next to WooCommerce and Elementor, and the bulk actions dropdown highlighted._
 
 After installation finishes, click **Return to Required Plugins Installer** and repeat the process, this time choosing **Activate** from the bulk actions dropdown.
 

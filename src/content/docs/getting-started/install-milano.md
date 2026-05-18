@@ -26,27 +26,27 @@ Next: [Before you begin](../before-you-begin/) for a full checklist of what you 
 
 3. Click **Add New** at the top of the page.
 
-   ![WordPress Themes screen with the Add New button highlighted](../../../assets/getting-started/install-milano/themes-add-new.png)
+   ![WordPress Themes screen with the Add New button highlighted](../../../assets/shared/placeholder.svg)
 
-   <!-- TODO(screenshot): Capture the WordPress Themes screen at 1440×900, default admin colors. Box around the "Add New" button at the top. -->
+   _WordPress Themes screen with the "Add New" button highlighted._
 
 4. Click **Upload Theme** at the top of the Add Themes page.
 
-   ![Add Themes page with the Upload Theme button highlighted](../../../assets/getting-started/install-milano/upload-theme-button.png)
+   ![Add Themes page with the Upload Theme button highlighted](../../../assets/shared/placeholder.svg)
 
-   <!-- TODO(screenshot): Capture the Add Themes page. Box around the "Upload Theme" button. -->
+   _Add Themes page with the "Upload Theme" button highlighted._
 
 5. Click **Choose File**, select the Milano zip file from your computer, then click **Install Now**.
 
-   ![Theme upload form with the Milano zip file selected](../../../assets/getting-started/install-milano/choose-file.png)
+   ![Theme upload form with the Milano zip file selected](../../../assets/shared/placeholder.svg)
 
-   <!-- TODO(screenshot): Capture the theme upload form after selecting the zip. Box around the file name and the "Install Now" button. -->
+   _Theme upload form with the Milano zip file selected and the "Install Now" button highlighted._
 
 6. Wait for WordPress to upload and install the theme. You will see a success message when it finishes.
 
-   ![Theme installation success message with the Activate link highlighted](../../../assets/getting-started/install-milano/install-success.png)
+   ![Theme installation success message with the Activate link highlighted](../../../assets/shared/placeholder.svg)
 
-   <!-- TODO(screenshot): Capture the success screen after theme install. Box around the "Activate" link. -->
+   _Theme installation success screen with the "Activate" link highlighted._
 
 7. Click **Activate** to turn Milano on.
 

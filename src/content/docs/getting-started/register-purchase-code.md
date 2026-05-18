@@ -20,9 +20,9 @@ You must register your purchase code before Milano can check for updates.
 4. Select **License certificate** from the dropdown. This downloads a text or PDF file.
 5. Open the file and copy the **Purchase Code** — it looks like a long string of letters, numbers, and dashes.
 
-![ThemeForest Downloads page with the License certificate download option highlighted](../../../assets/getting-started/register-purchase-code/license-certificate.png)
+![ThemeForest Downloads page with the License certificate download option highlighted](../../../assets/shared/placeholder.svg)
 
-<!-- TODO(screenshot): Capture the ThemeForest Downloads page. Box around the "License certificate" option in the dropdown next to Milano. -->
+_ThemeForest Downloads page with the "License certificate" option highlighted in the dropdown next to Milano._
 
 ## Enter your purchase code in Milano
 
@@ -30,9 +30,9 @@ You must register your purchase code before Milano can check for updates.
 2. Paste your purchase code into the **License Key** field.
 3. Click **Activate License**.
 
-![Milano License screen with the License Key field and Activate License button highlighted](../../../assets/getting-started/register-purchase-code/license-screen.png)
+![Milano License screen with the License Key field and Activate License button highlighted](../../../assets/shared/placeholder.svg)
 
-<!-- TODO(screenshot): Capture the Milano → Dashboard → License screen in WP admin. Box around the license key input field and the "Activate License" button. -->
+_Milano → Dashboard → License screen with the license key input field and "Activate License" button highlighted._
 
 You will see a confirmation message when the license is active. Milano can now check for updates.
 
