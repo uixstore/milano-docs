@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f3f4f6"/>
+  <rect x="100" y="100" width="600" height="300" rx="8" fill="#e5e7eb" stroke="#d1d5db" stroke-width="2" stroke-dasharray="8 4"/>
+  <text x="400" y="240" font-family="system-ui, sans-serif" font-size="18" fill="#6b7280" text-anchor="middle">Screenshot pending</text>
+  <text x="400" y="270" font-family="system-ui, sans-serif" font-size="14" fill="#9ca3af" text-anchor="middle">This image will be added soon</text>
+  <circle cx="400" cy="190" r="24" fill="#d1d5db"/>
+  <path d="M390 190 L400 180 L410 190 M400 180 L400 200" stroke="#6b7280" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
