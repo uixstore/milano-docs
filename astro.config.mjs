@@ -12,39 +12,72 @@ export default defineConfig({
       customCss: ['./src/styles/custom.css'],
       lastUpdated: true,
       sidebar: [
-        { label: 'Getting Started', items: [{ autogenerate: { directory: 'getting-started' } }] },
-        { label: 'Import Demo', items: [{ autogenerate: { directory: 'import-demo' } }] },
-        { label: 'Homepages', items: [{ autogenerate: { directory: 'homepages' } }] },
-        { label: 'Pre-built Pages', items: [{ autogenerate: { directory: 'pre-built-pages' } }] },
-        { label: 'Customizer', items: [{ autogenerate: { directory: 'customizer' } }] },
         {
-          label: 'Header & Footer Builder',
-          items: [{ autogenerate: { directory: 'header-footer-builder' } }],
+          label: 'Getting Started',
+          items: [{ autogenerate: { directory: 'getting-started' } }],
         },
         {
-          label: 'Page Builder Integration',
-          items: [{ autogenerate: { directory: 'page-builder-integration' } }],
+          label: 'Theme Settings',
+          items: [{ autogenerate: { directory: 'theme-settings' } }],
         },
-        { label: 'Menus', items: [{ autogenerate: { directory: 'menus' } }] },
+        {
+          label: 'Header Builder',
+          items: [{ autogenerate: { directory: 'header-builder' } }],
+        },
+        {
+          label: 'Footer Builder',
+          items: [{ autogenerate: { directory: 'footer-builder' } }],
+        },
+        {
+          label: 'Navigation',
+          items: [{ autogenerate: { directory: 'navigation' } }],
+        },
+        {
+          label: 'Shop Layout',
+          items: [{ autogenerate: { directory: 'shop-layout' } }],
+        },
+        {
+          label: 'Single Product',
+          items: [{ autogenerate: { directory: 'single-product' } }],
+        },
+        {
+          label: 'Cart & Checkout',
+          items: [{ autogenerate: { directory: 'cart-checkout' } }],
+        },
         { label: 'Blog', items: [{ autogenerate: { directory: 'blog' } }] },
-        { label: 'Shop', items: [{ autogenerate: { directory: 'shop' } }] },
-        { label: 'Theme Modules', items: [{ autogenerate: { directory: 'theme-modules' } }] },
+        {
+          label: 'Page Builder',
+          items: [{ autogenerate: { directory: 'page-builder' } }],
+        },
+        {
+          label: 'Theme Modules',
+          items: [{ autogenerate: { directory: 'theme-modules' } }],
+        },
+        {
+          label: 'Advanced Features',
+          items: [{ autogenerate: { directory: 'advanced-features' } }],
+        },
+        {
+          label: 'Performance & SEO',
+          items: [{ autogenerate: { directory: 'performance-seo' } }],
+        },
+        {
+          label: 'Translation',
+          items: [{ autogenerate: { directory: 'translation' } }],
+        },
         {
           label: 'Plugin Compatibility',
           items: [{ autogenerate: { directory: 'plugin-compatibility' } }],
         },
-        { label: 'Translation', items: [{ autogenerate: { directory: 'translation' } }] },
-        { label: 'Performance & SEO', items: [{ autogenerate: { directory: 'performance-seo' } }] },
         {
-          label: 'Customize Further',
-          items: [{ autogenerate: { directory: 'customize-further' } }],
-        },
-        {
-          label: 'Troubleshooting & FAQ',
-          items: [{ autogenerate: { directory: 'troubleshooting-faq' } }],
+          label: 'Troubleshooting',
+          items: [{ autogenerate: { directory: 'troubleshooting' } }],
         },
         { label: 'Glossary', link: '/glossary/' },
-        { label: 'Support & Updates', items: [{ autogenerate: { directory: 'support-updates' } }] },
+        {
+          label: 'Support & Updates',
+          items: [{ autogenerate: { directory: 'support-updates' } }],
+        },
       ],
     }),
   ],

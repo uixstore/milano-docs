@@ -1,16 +1,36 @@
 ---
 title: Getting Started
-description: Install Milano, register your purchase code, install required plugins, and finish your first-time setup.
+description: Install Milano, activate your license, and set up your store in minutes.
 sidebar:
+  label: Overview
   order: 1
 ---
 
-Get Milano installed and running on your WordPress site. This section takes you from a fresh WordPress install to a working theme in about 30 minutes.
+Welcome to Milano — a multipurpose WooCommerce theme built for speed, flexibility, and ease of use. This section walks you through everything you need to do before customizing your site.
 
-## In this section
+## Before you begin
 
-- [Before you begin](./before-you-begin/) — check your hosting requirements and download the theme files.
-- [Install Milano](./install-milano/) — upload the theme through WordPress admin or FTP and activate it.
-- [Register your purchase code](./register-purchase-code/) — enter your Envato license key to unlock updates and support.
-- [Install required plugins](./install-required-plugins/) — install WooCommerce and Elementor, the two plugins Milano needs.
-- [First-time setup checklist](./first-time-setup-checklist/) — confirm everything is in place and pick your next step.
+Make sure your hosting environment meets Milano's requirements:
+
+- **WordPress** 5.9 or higher
+- **PHP** 7.4 or higher
+- **WooCommerce** (required for shop features)
+- **HTTPS** enabled on your site
+
+For full details, see [Before You Begin](./before-you-begin/).
+
+## Installation steps
+
+1. **Install Milano** — upload and activate the theme via your WordPress dashboard. See [Install Milano](./install-milano/).
+2. **Register your purchase code** — activate your license to receive updates and support. See [Register Purchase Code](./register-purchase-code/).
+3. **Install required plugins** — WooCommerce and other recommended plugins. See [Install Required Plugins](./install-required-plugins/).
+4. **Import a demo (optional)** — start with a pre-built site and customize from there. See [Import a Demo](./import-a-demo/).
+5. **Follow the setup checklist** — verify everything is configured correctly. See [First-Time Setup Checklist](./first-time-setup-checklist/).
+
+## What's next
+
+Once Milano is installed and activated, you can:
+
+- [Customize your site](../theme-settings/) — change colors, typography, layouts, and more.
+- [Build your header](../header-builder/) — design a custom header with the drag-and-drop builder.
+- [Set up your shop](../shop-layout/) — configure product pages, cart, and checkout.

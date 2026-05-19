@@ -2,7 +2,7 @@
 title: Import a demo
 description: Import a Milano demo in one click using the built-in demo importer.
 sidebar:
-  order: 2
+  order: 5
 draft: false
 ---
 
