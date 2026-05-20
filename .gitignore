@@ -16,3 +16,11 @@ dist/
 .env
 .env.local
 .env.*.local
+
+# AI
+CLAUDE.local.md
+
+# Vale
+.vale/styles/alex
+.vale/styles/proselint
+.vale/styles/write-good
