@@ -74,6 +74,10 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'troubleshooting' } }],
         },
         {
+          label: "How to's & Guides",
+          items: [{ autogenerate: { directory: 'how-tos-guides' } }],
+        },
+        {
           label: 'Support & Updates',
           items: [{ autogenerate: { directory: 'support-updates' } }],
         },
