@@ -38,7 +38,7 @@ Response time depends on the volume of incoming requests. During major WordPress
 **Expired support period.** After the six-month window ends, you must renew support through ThemeForest before submitting new requests.
 
 :::tip
-Check the [Troubleshooting and FAQ](../troubleshooting-faq/) section before opening a support ticket. Many common issues have documented solutions.
+Check the [Common issues](../troubleshooting/common-issues/) page before opening a support ticket. Many common issues have documented solutions.
 :::
 
 ## How to request support
@@ -60,4 +60,4 @@ You can extend support for an additional six or twelve months at any time. Go to
 Keep Milano up to date to avoid known issues and get the latest features.
 
 - [Update Milano](./update-milano/) — install the latest version.
-- [Troubleshooting and FAQ](../troubleshooting-faq/) — find solutions to common issues before contacting support.
+- [Common issues](../troubleshooting/common-issues/) — find solutions to common issues before contacting support.

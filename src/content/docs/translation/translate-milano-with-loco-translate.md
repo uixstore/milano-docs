@@ -111,4 +111,4 @@ This is why you saved to the custom location. If you saved to the author locatio
 
 - Running a multilingual store? Switch to [WPML](./wpml-guide/) or [Polylang](./polylang-guide/).
 - Check [WPML compatibility notes](../plugin-compatibility/wpml/) and [Polylang compatibility notes](../plugin-compatibility/polylang/) for known issues with those plugins.
-- Having trouble? See the [troubleshooting section](../troubleshooting-faq/).
+- Having trouble? See the [Common issues](../troubleshooting/common-issues/) page.
