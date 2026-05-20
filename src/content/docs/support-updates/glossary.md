@@ -1,6 +1,8 @@
 ---
 title: Glossary
 description: WordPress, WooCommerce, and Milano terms explained in plain language.
+sidebar:
+  order: 5
 ---
 
 This glossary defines terms you will see throughout this documentation. Each entry includes a plain-language definition and where you will encounter the term.
@@ -88,8 +90,3 @@ This glossary defines terms you will see throughout this documentation. Each ent
 **WooCommerce** — the most popular eCommerce plugin for WordPress. It adds product pages, a cart, checkout, and order management to your site. Milano is built to work with WooCommerce. See [Set up WooCommerce](../shop-layout/set-up-woocommerce/).
 
 **WPBakery** — a page builder plugin with a front-end and back-end editor. Milano supports WPBakery. See [Use Milano with WPBakery](../page-builder/use-milano-with-wpbakery/).
-
-## Next steps
-
-- Browse the [Getting Started](../getting-started/) section if you are new to Milano.
-- Check the [Troubleshooting](../troubleshooting/common-issues/) section if something is not working.

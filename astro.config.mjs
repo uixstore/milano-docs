@@ -73,7 +73,6 @@ export default defineConfig({
           label: 'Troubleshooting',
           items: [{ autogenerate: { directory: 'troubleshooting' } }],
         },
-        { label: 'Glossary', link: '/glossary/' },
         {
           label: 'Support & Updates',
           items: [{ autogenerate: { directory: 'support-updates' } }],
