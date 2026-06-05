@@ -2,7 +2,7 @@
 title: Import a demo
 description: Import a Milano demo in one click using the built-in demo importer.
 sidebar:
-  order: 5
+  order: 2
 draft: false
 ---
 
@@ -10,7 +10,7 @@ Milano includes its own demo importer. You can import a full demo or pick specif
 
 ## Before you begin
 
-- **WooCommerce and Elementor installed and activated** — [Install required plugins](../getting-started/install-required-plugins/).
+- **WooCommerce and Elementor installed and activated** — [Install required plugins](../../getting-started/install-required-plugins/).
 - **A fresh WordPress install** — demos work best on a clean site. If you have existing content, back it up first.
 - **Enough server resources** — demo imports can take a few minutes. Make sure your PHP `max_execution_time` is at least 300 seconds and `memory_limit` is at least 256 MB.
 
@@ -65,6 +65,6 @@ Select the items you want and click **Import Selected**.
 
 ## Next steps
 
-With a demo imported, customize it to match your brand.
+With a demo imported, customize it to match your brand. Replace your logo and update the site title, then move on to colors, typography, and menus.
 
-Next: [Site Identity](../customizer/site-identity/) to change your logo and site title.
+Next: read the [Getting Started checklist](../../getting-started/first-time-setup-checklist/) for a full list of what to customize after import.

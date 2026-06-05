@@ -35,7 +35,7 @@ For a fresh install, download **Installable WordPress theme only**. If you also 
 When you download the full package and extract it, you will find:
 
 - `milano.zip` — the main theme file.
-- `milano-child.zip` — the child theme (optional; see [Child themes](../../customize-further/child-themes/)).
+- `milano-child.zip` — the child theme (optional; see [Install the child theme](../install-the-child-theme/)).
 - License file — your purchase proof. Keep this safe.
 - Demo content files — used by Milano's demo importer.
 

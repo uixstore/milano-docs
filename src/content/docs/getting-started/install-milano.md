@@ -8,6 +8,10 @@ draft: false
 
 This page walks you through installing the Milano theme on your WordPress site. You can upload it through the WordPress admin (recommended) or via FTP if your host has a small upload limit.
 
+:::tip
+Looking for the fast path? After activation, Milano opens the [setup wizard](../use-the-setup-wizard/) and handles purchase code, child theme, plugins, and demo import for you. This page is the manual fallback.
+:::
+
 ## Before you begin
 
 - A working WordPress site (WordPress 5.9 or higher, PHP 7.4 or higher).

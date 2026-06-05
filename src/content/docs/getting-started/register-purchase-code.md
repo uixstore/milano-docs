@@ -2,11 +2,15 @@
 title: Register your purchase code
 description: Find your Envato purchase code and enter it in Milano to unlock updates and support.
 sidebar:
-  order: 3
+  order: 4
 draft: false
 ---
 
 After installing Milano, register your purchase code. This unlocks theme updates, demo imports, bundled premium plugins, and support from the UIX Themes team.
+
+:::tip
+The [setup wizard](../use-the-setup-wizard/) handles this on its first screen — the **Welcome** step — right after you activate the theme. You can paste the code there and accept the ThemeForest license terms, and Milano will save it for you. This page covers the manual path for users who skipped the wizard or want to update the code later.
+:::
 
 :::caution
 You must register your purchase code before Milano can check for updates.

@@ -2,49 +2,50 @@
 title: Install required plugins
 description: Install WooCommerce and Elementor, the two plugins Milano needs to run.
 sidebar:
-  order: 4
+  order: 6
 draft: false
 ---
 
-Milano requires two plugins to work: WooCommerce and Elementor. After you activate Milano, it prompts you to install them through the theme's built-in installer.
+Milano requires two plugins to work: WooCommerce and Elementor. The [setup wizard](../use-the-setup-wizard/) installs them for you on its **Plugins** step. This page covers the wizard flow plus the manual path for users who skipped the wizard or want to install a different set of plugins.
 
 ## Required plugins
 
 ### WooCommerce
 
 **What it does.** Adds online store functionality to WordPress — products, cart, checkout, and payments.
-**Where to install.** Milano prompts you automatically, or go to **Plugins → Add New** and search for "WooCommerce".
+**Where to install.** The wizard's Plugins step, or **Milano → Dashboard → Plugins** in your WordPress admin.
 **License.** Free. No paid plan needed for basic store features.
 
 ### Elementor
 
 **What it does.** A drag-and-drop page builder for creating and editing pages visually. Milano's demo content and page templates are built with Elementor.
-**Where to install.** Milano prompts you automatically, or go to **Plugins → Add New** and search for "Elementor".
+**Where to install.** The wizard's Plugins step, or **Milano → Dashboard → Plugins** in your WordPress admin.
 **License.** Free. The free version covers all Milano demo imports. Elementor Pro is optional.
 
-## Install through Milano's installer
+## Install through the setup wizard
 
-After activating Milano, you will see a notice at the top of your WordPress admin asking you to install required plugins. Click **Begin installing plugins** to start.
+The wizard shows a checklist of plugins on its **Plugins** step. Required plugins are pre-selected; you can deselect any you don't want, then click **Continue** to install and activate the whole batch in one go.
 
-![Milano admin notice prompting you to install required plugins](../../../assets/shared/placeholder.svg)
+![Milano Plugins step with WooCommerce and Elementor pre-selected](../../../assets/shared/placeholder.svg)
 
-_WP admin screen after activating Milano with the "Begin installing plugins" notice highlighted._
+_Setup wizard Plugins step with the required plugins pre-selected and the bulk-install button highlighted._
 
-You will see a list of required plugins with checkboxes. Select WooCommerce and Elementor, then choose **Install** from the bulk actions dropdown and click **Apply**.
+The button shows a spinner while each plugin is installed and activated. When the queue finishes, the wizard advances to the Templates (demo import) step.
 
-![Plugin installer screen with WooCommerce and Elementor listed](../../../assets/shared/placeholder.svg)
+## Install from the Milano Plugins tab
 
-_Plugin installer screen with checkboxes next to WooCommerce and Elementor, and the bulk actions dropdown highlighted._
+If you skipped the wizard or want to manage plugins later, use the Plugins tab:
 
-After installation finishes, click **Return to Required Plugins Installer** and repeat the process, this time choosing **Activate** from the bulk actions dropdown.
+1. Go to **Milano → Dashboard** in your WordPress admin.
+2. Click the **Plugins** tab.
+3. Check the boxes next to the plugins you want.
+4. Click **Install** (or **Activate**, if they're already installed) to apply the selection.
 
-:::tip
-You can also install plugins one at a time by clicking **Install** and then **Activate** next to each plugin in the list.
-:::
+The Plugins tab uses the same checklist as the wizard, so the install and activate actions behave identically.
 
-## Install manually
+## Install manually through WordPress
 
-If the installer does not appear, install the plugins yourself:
+If the Milano installer is unavailable, install the plugins yourself through the WordPress plugin directory:
 
 1. Go to **Plugins → Add New**.
 2. Search for "WooCommerce". Click **Install Now**, then **Activate**.
@@ -52,6 +53,6 @@ If the installer does not appear, install the plugins yourself:
 
 ## Next steps
 
-With all required plugins installed and active, you are ready to import a demo or start building from scratch.
+With WooCommerce and Elementor installed and active, import a demo or start building from scratch.
 
 Next: [Import a demo](../../import-demo/import-a-demo/) or jump to the [First-time setup checklist](../first-time-setup-checklist/).
