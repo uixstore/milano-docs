@@ -27,7 +27,7 @@ The **Footer** panel controls footer rows, columns, and copyright text. See [Foo
 
 ## [Blog](./blog/)
 
-The **Blog** panel controls blog archive layout, post cards, and single post settings. See [Blog](../blog/) for detailed setup.
+The **Blog** panel controls blog archive layout, post cards, and single post settings. See [Blog overview](../blog/) for detailed setup.
 
 ## [Product Catalog](./product-catalog/)
 

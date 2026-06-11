@@ -5,7 +5,7 @@ sidebar:
   order: 2
 ---
 
-You can change your site's identity from **Appearance → Customize → Site Identity**.
+You can change your site's identity from **Appearance → Customize → Global**, under the **Site Identity** section.
 
 ## Logo
 

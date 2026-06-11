@@ -13,4 +13,4 @@ The **Blog** panel in the Customizer controls how your blog posts look on archiv
 - **Blog Archive** — sidebar position, grid layout (2, 3, or 4 columns, or list), pagination style, post card thumbnail ratio, excerpt length
 - **Single Post** — featured image visibility and ratio, prev/next navigation, related posts, share buttons
 
-For detailed setup instructions, see [Blog](../blog/).
+For detailed setup instructions, see [Blog overview](../blog/).

@@ -5,7 +5,7 @@ sidebar:
   order: 5
 ---
 
-You can change the site's layout dimensions from **Appearance → Customize → Site Layout**.
+You can change the site's layout dimensions from **Appearance → Customize → Global**, under the **Site Layout** section.
 
 ## Container widths
 

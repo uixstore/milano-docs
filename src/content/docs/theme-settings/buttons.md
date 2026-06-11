@@ -5,7 +5,7 @@ sidebar:
   order: 6
 ---
 
-You can change button and input field styling from **Appearance → Customize → Buttons & Inputs**.
+You can change button and input field styling from **Appearance → Customize → Global**, under the **Buttons & Inputs** section.
 
 ## Button border radius
 

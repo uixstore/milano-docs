@@ -5,7 +5,7 @@ sidebar:
   order: 4
 ---
 
-You can change the site's fonts from **Appearance → Customize → Typography**.
+You can change the site's fonts from **Appearance → Customize → Global**, under the **Typography** section.
 
 ## Body font
 
@@ -29,9 +29,5 @@ The **Heading Font** setting controls all headings (H1–H6). You can set:
 ## Subheading font
 
 The **Subheading Font** setting controls the weight of subheading elements. Default weight is 500 (medium).
-
-## Controlling the gap between page elements
-
-Under the **Typography** section, you can also set the spacing around and between content sections.
 
 Not seeing the font you want? Milano syncs with Google Fonts — type the font name in the family field to search.

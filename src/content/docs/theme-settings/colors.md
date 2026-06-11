@@ -5,7 +5,7 @@ sidebar:
   order: 3
 ---
 
-You can change the site's color palette from **Appearance → Customize → Colors**.
+You can change the site's color palette from **Appearance → Customize → Global**, under the **Colors** section.
 
 ## Color scheme
 
