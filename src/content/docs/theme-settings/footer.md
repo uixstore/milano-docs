@@ -15,4 +15,4 @@ The **Footer** panel in the Customizer controls the bottom section of your site:
 - **Footer Bottom** — column count, column widths, alignment, gap, background color, padding, border
 - **Copyright** — copyright text with `{year}` and `{site_title}` placeholders, typography and colors
 
-For detailed setup instructions, see [Footer builder](../footer-builder/).
+For detailed setup instructions, see [Footer builder](../footer/footer-builder/).

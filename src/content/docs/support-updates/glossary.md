@@ -33,7 +33,7 @@ This glossary defines terms you will see throughout this documentation. Each ent
 
 ## F
 
-**Footer builder** — Milano's drag-and-drop tool for designing your site's footer. You access it through **Appearance → Customize → Footer Builder**. See [Build your footer](../footer-builder/build-your-footer/).
+**Footer builder** — Milano's drag-and-drop tool for designing your site's footer. You access it through **Appearance → Customize → Footer Builder**. See [Footer builder](../footer/footer-builder/).
 
 **Frontend** — the part of your site that visitors see. The opposite of the admin dashboard (backend).
 

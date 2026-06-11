@@ -23,7 +23,7 @@ The **Header** panel controls sticky behavior, logo, menus, categories bar, cart
 
 ## [Footer](./footer/)
 
-The **Footer** panel controls footer rows, columns, and copyright text. See [Footer builder](../footer-builder/) for detailed setup.
+The **Footer** panel controls footer rows, columns, and copyright text. See [Footer builder](../footer/footer-builder/) for detailed setup.
 
 ## [Blog](./blog/)
 

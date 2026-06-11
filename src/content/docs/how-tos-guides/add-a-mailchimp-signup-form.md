@@ -72,4 +72,4 @@ The Mailchimp for WP plugin inherits your theme's form styles. If the form looks
 ## Next steps
 
 - [Custom CSS](../theme-settings/custom-css/) — style your signup form to match Milano.
-- [Footer builder](../footer-builder/) — place your signup form in the footer for maximum visibility.
+- [Footer builder](../footer/footer-builder/) — place your signup form in the footer for maximum visibility.

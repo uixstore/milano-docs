@@ -25,8 +25,8 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'header' } }],
         },
         {
-          label: 'Footer Builder',
-          items: [{ autogenerate: { directory: 'footer-builder' } }],
+          label: 'Footer',
+          items: [{ autogenerate: { directory: 'footer' } }],
         },
         {
           label: 'Navigation',
