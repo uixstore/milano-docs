@@ -21,8 +21,8 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'theme-settings' } }],
         },
         {
-          label: 'Header Builder',
-          items: [{ autogenerate: { directory: 'header-builder' } }],
+          label: 'Header',
+          items: [{ autogenerate: { directory: 'header' } }],
         },
         {
           label: 'Footer Builder',

@@ -19,7 +19,7 @@ Milano adds several panels to the WordPress **Customizer**, giving you full cont
 
 ## [Header](./header/)
 
-The **Header** panel controls sticky behavior, logo, menus, categories bar, cart and account icons, search, and contact info. See [Header builder](../header-builder/) for detailed setup.
+The **Header** panel controls sticky behavior, logo, menus, categories bar, cart and account icons, search, and contact info. See [Header builder](../header/header-builder/) for detailed setup.
 
 ## [Footer](./footer/)
 

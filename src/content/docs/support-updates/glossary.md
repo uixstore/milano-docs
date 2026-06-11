@@ -39,7 +39,7 @@ This glossary defines terms you will see throughout this documentation. Each ent
 
 ## H
 
-**Header builder** — Milano's drag-and-drop tool for designing your site's header. You access it through **Appearance → Customize → Header Builder**. See [Build your header](../header-builder/build-your-header/).
+**Header builder** — Milano's drag-and-drop tool for designing your site's header. You access it through **Appearance → Customize → Header**. See [Header builder](../header/header-builder/).
 
 **Homepage** — the first page visitors see when they go to your site. You set your homepage under **Settings → Reading**. See [Set a homepage](../homepages/set-a-homepage/).
 
@@ -75,7 +75,7 @@ This glossary defines terms you will see throughout this documentation. Each ent
 
 **Sidebar** — a column next to your main content, usually containing widgets like search, categories, or recent posts. Not to be confused with the WordPress admin sidebar (the menu on the left of the dashboard).
 
-**Sticky header** — a header that stays fixed at the top of the screen as visitors scroll down the page. You turn this on through the header builder. See [Sticky and transparent header](../header-builder/sticky-and-transparent-header/).
+**Sticky header** — a header that stays fixed at the top of the screen as visitors scroll down the page. You turn this on through the header builder. See [Sticky header](../header/sticky-header/).
 
 ## T
 

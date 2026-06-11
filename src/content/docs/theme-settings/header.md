@@ -20,4 +20,4 @@ The **Header** panel in the Customizer controls everything above your page conte
 - **Email** — display settings
 - **Top Bar** — announcements, social links, language and currency switchers
 
-For detailed setup instructions, see [Header builder](../header-builder/).
+For detailed setup instructions, see [Header builder](../header/header-builder/).
