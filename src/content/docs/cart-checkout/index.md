@@ -1,8 +1,14 @@
 ---
 title: Cart & Checkout
-description: Customize cart page, cart drawer, and checkout experience.
+description: Set up your cart page, checkout page, and mini cart drawer with Milano's WooCommerce features.
 sidebar:
-  order: 8
+  order: 1
 ---
 
-<!-- Brief: Landing page for the Cart & Checkout section. Overview of cart and checkout customization options. -->
+Milano customizes the WooCommerce cart and checkout experience with features like an off-canvas cart drawer, urgency banners, product recommendations, trust badges, and more.
+
+## In this section
+
+- [Default cart & checkout](./cart-and-checkout/) — set up block-based cart and checkout pages
+- [Classic cart & checkout](./classic-cart-checkout/) — classic shortcode pages with urgency banners, recommendations, trust badges, and trust content
+- [Mini cart](./mini-cart/) — configure the slide-out cart drawer, free shipping bar, and coupon field
