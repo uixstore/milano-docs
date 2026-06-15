@@ -2,7 +2,7 @@
 title: Product reviews
 description: Show a rating summary, star histogram, and standalone review section on product pages.
 sidebar:
-  order: 12
+  order: 5
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: Product tabs
 description: Choose how product information is organized — horizontal tabs, accordion, or vertical tabs.
 sidebar:
-  order: 3
+  order: 4
 draft: false
 ---
 

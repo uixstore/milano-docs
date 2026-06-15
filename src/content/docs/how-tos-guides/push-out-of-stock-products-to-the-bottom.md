@@ -37,4 +37,4 @@ The sorting applies per page. If page one has 12 in-stock products and 3 out-of-
 ## Next steps
 
 - [Shop page layout](../shop-layout/shop-page-layout/) — control columns, filters, and product count per page.
-- [Product layout](../single-product/product-layout/) — configure sticky summary and page header.
+- [Product layout](../single-product/) — configure sticky summary and page header.

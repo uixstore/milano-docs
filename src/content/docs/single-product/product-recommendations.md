@@ -2,7 +2,7 @@
 title: Product recommendations
 description: Show cross-sells, up-sells, best-sellers, and recently viewed products on product and cart pages.
 sidebar:
-  order: 9
+  order: 6
 draft: false
 ---
 
@@ -26,7 +26,7 @@ Milano includes a recommendation engine that suggests products across your store
 
 ### Single product page
 
-Related products, up-sells, and recently viewed products each render in their own section below the product content. See [Product layout](./product-layout/) for sticky behavior and header settings.
+Related products, up-sells, and recently viewed products each render in their own section below the product content. See [Product layout](./) for sticky behavior and header settings.
 
 ### Cart page
 

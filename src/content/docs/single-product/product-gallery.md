@@ -63,4 +63,4 @@ Turn on the lightbox to open a full-screen image viewer when customers click the
 ## Next steps
 
 - [Product tabs](./product-tabs/) — configure how product information is organized below the gallery.
-- [Product layout](./product-layout/) — set up sticky summary and page header.
+- [Product layout](./) — set up sticky summary and page header.

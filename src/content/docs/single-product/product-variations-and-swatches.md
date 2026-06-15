@@ -2,6 +2,7 @@
 title: Product variations and swatches
 description: Display product attributes as color, image, or label swatches.
 sidebar:
+  label: Variations & Swatches
   order: 7
 draft: false
 ---
@@ -32,33 +33,3 @@ The integration:
 
 - Registers the swatches feature in the theme.
 - Maps term meta so swatches render on both product cards and single product pages.
-
-## Product Card Swatches
-
-Product Card Swatches shows variation options directly on product cards in the shop loop. Customers can switch between variations without opening the product page.
-
-### Turn on Product Card Swatches
-
-1. Go to **Appearance → Customize → Product Catalog → Product Card**.
-2. Find the **Product Card Swatches** section.
-
-### Settings
-
-| Setting          | Options                                     | Description                                    |
-| ---------------- | ------------------------------------------- | ---------------------------------------------- |
-| **Source**       | Variation images, Swatches                  | Use variation images or WCBoost swatch data.   |
-| **Attribute**    | First attribute, or a specific WC attribute | Which attribute drives the swatches.           |
-| **Image change** | No change, On click, On hover               | When the card image updates for the variation. |
-| **Limit**        | Number                                      | Maximum number of swatches to show per card.   |
-
-### Swatch types
-
-The module renders three swatch types depending on the attribute data:
-
-- **Image swatches** — Variation images shown as small thumbnails.
-- **Color swatches** — Color values shown as solid swatches.
-- **Label swatches** — Text labels for attributes like Size or Material.
-
-:::note
-Product Card Swatches requires the WCBoost Variation Swatches plugin or variation images set on each product variation in WooCommerce.
-:::

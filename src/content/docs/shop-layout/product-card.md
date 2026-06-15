@@ -77,12 +77,23 @@ Turn on **Show Video** to replace the product thumbnail with a video when one is
 
 When the Product Card Swatches module is active, swatches appear directly on the card. Customers can switch between variations without opening the product page.
 
+1. Go to **Appearance → Customize → Product Catalog → Product Card**.
+2. Find the **Product Card Swatches** section and turn it on.
+
 | Setting          | Options                                     | Description                                    |
 | ---------------- | ------------------------------------------- | ---------------------------------------------- |
 | **Source**       | Variation images, Swatches                  | Use variation images or WCBoost swatch data.   |
 | **Attribute**    | First attribute, or a specific WC attribute | Which attribute drives the swatches.           |
 | **Image change** | No change, On click, On hover               | When the card image updates for the variation. |
 | **Limit**        | Number                                      | Maximum swatches to show per card.             |
+
+### Swatch types
+
+The module renders three swatch types depending on the attribute data:
+
+- **Image swatches** — Variation images shown as small thumbnails.
+- **Color swatches** — Color values shown as solid swatches.
+- **Label swatches** — Text labels for attributes like Size or Material.
 
 :::note
 Product Card Swatches requires the WCBoost Variation Swatches plugin or variation images set on each product variation in WooCommerce.
@@ -91,4 +102,3 @@ Product Card Swatches requires the WCBoost Variation Swatches plugin or variatio
 ## Next steps
 
 - [Product badges](../product-badges/) — show sale, new, pre-order, and sold-out badges on cards.
-- [Product gallery](../../single-product/product-gallery/) — configure image layout, thumbnails, zoom, and lightbox.
