@@ -13,10 +13,6 @@ WPML is a paid plugin. You need at least the **Multilingual CMS** tier to transl
 
 A multilingual Milano store where visitors can switch between languages. Each language has its own homepage, product catalog, and navigation menu.
 
-![Milano storefront with a language switcher in the header showing English and French options](../../../assets/shared/placeholder.svg)
-
-_Screenshot: Milano storefront with language switcher visible in the header_
-
 ## What you will need
 
 - Milano theme installed and active.
@@ -38,10 +34,6 @@ _Screenshot: Milano storefront with language switcher visible in the header_
    - WPML Media Translation
    - WooCommerce Multilingual (if you use WooCommerce)
 8. Go to **WPML → Setup** to start the configuration wizard.
-
-![WordPress plugins screen showing WPML core plugin and addons all activated](../../../assets/shared/placeholder.svg)
-
-_Screenshot: WordPress plugins list with WPML core and all required addons activated_
 
 ## Step 2 — Set up languages
 
@@ -70,10 +62,6 @@ Use language directories for most stores. They work well with search engines and
 3. The translation editor opens. You can use the built-in editor or translate on the front end.
 4. Enter your translated title and content.
 5. Click **Save**.
-
-![WordPress pages list showing English pages with plus icons to add French translations](../../../assets/shared/placeholder.svg)
-
-_Screenshot: WordPress pages list with translation status columns showing plus icons for adding translations_
 
 ### Translate products
 
@@ -107,10 +95,6 @@ Milano has text strings that come from the theme itself. These include labels li
 3. Use the "Select domain within admin texts" dropdown and choose **milano** to filter to theme strings.
 4. Find the string you want to translate. Click the **+** icons under each language.
 5. Type your translation and click **Save**.
-
-![WPML String Translation screen showing Milano theme strings with translation fields for each language](../../../assets/shared/placeholder.svg)
-
-_Screenshot: WPML String Translation interface filtered to the Milano theme domain with translation fields visible_
 
 :::tip
 Scan for new strings after updating Milano. Go to **WPML → Theme and plugins localization**, select Milano, and click **Scan the theme for strings**. This picks up any new text added in the update.

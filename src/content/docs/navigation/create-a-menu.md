@@ -13,10 +13,6 @@ You build menus in the WordPress menu editor. Milano then places your menu in th
 2. Enter a name for your menu in the **Menu name** field. Use something descriptive like "Main menu" or "Footer links".
 3. Click **Create menu**.
 
-![Menu editor with a new menu name entered and the Create menu button highlighted](../../../assets/shared/placeholder.svg)
-
-_Screenshot: WordPress menu editor showing the menu name field and Create menu button._
-
 ## Add items to your menu
 
 The left panel shows pages, product categories, and custom links you can add.
@@ -54,10 +50,6 @@ Items appear in the menu in the order you set.
 2. Drag an item slightly to the right under another item to make it a dropdown child.
 3. Click the arrow on any item to expand its settings.
 
-![Menu structure with parent and child items arranged in a hierarchy](../../../assets/shared/placeholder.svg)
-
-_Screenshot: Menu editor showing a parent item with two nested child items underneath it._
-
 :::tip
 Keep your menu to seven items or fewer. Long menus overwhelm visitors and perform poorly on mobile screens.
 :::
@@ -75,10 +67,6 @@ Milano provides three menu locations.
 1. Scroll to the **Menu settings** section at the bottom of the page.
 2. Check the box next to each location where you want this menu to appear.
 3. Click **Save menu**.
-
-![Menu settings checkboxes for Primary, Footer, and Mobile menu locations](../../../assets/shared/placeholder.svg)
-
-_Screenshot: Menu settings section with checkboxes for each Milano menu location._
 
 :::caution
 You must assign a menu to the **Primary menu** location for it to appear in the header. An unassigned menu will not show.

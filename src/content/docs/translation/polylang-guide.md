@@ -13,10 +13,6 @@ The core Polylang plugin is free. You need the paid **Polylang for WooCommerce**
 
 A multilingual Milano store where visitors can switch between languages. Each language has its own homepage, product catalog, and navigation menu.
 
-![Milano storefront with a language switcher in the header showing English and Spanish options](../../../assets/shared/placeholder.svg)
-
-_Screenshot: Milano storefront with language switcher visible in the header_
-
 ## What you will need
 
 - Milano theme installed and active.
@@ -32,10 +28,6 @@ _Screenshot: Milano storefront with language switcher visible in the header_
 4. Click **Activate**.
 5. The Polylang setup wizard opens automatically. If it does not, go to **Languages** in your admin sidebar.
 
-![WordPress plugin search results showing Polylang by WP SYNTEX with the Install Now button visible](../../../assets/shared/placeholder.svg)
-
-_Screenshot: WordPress plugin search results with Polylang highlighted_
-
 ## Step 2 — Set up languages
 
 The setup wizard walks you through language configuration.
@@ -48,10 +40,6 @@ The setup wizard walks you through language configuration.
    - **Domain** — `yoursite.com` and `yoursite.fr`. You need separate domains.
 4. Decide whether to detect the browser language. Turning this on sends visitors to their browser language automatically.
 5. Click **Continue** to save.
-
-![Polylang setup wizard showing language selection with English and French added](../../../assets/shared/placeholder.svg)
-
-_Screenshot: Polylang setup wizard with multiple languages selected and URL format options_
 
 :::tip
 Use the language code in the URL option for most stores. It works with every host and does not need extra DNS configuration.
@@ -66,10 +54,6 @@ Use the language code in the URL option for most stores. It works with every hos
 3. The translation editor opens with a blank page.
 4. Enter your translated title and content. You can copy content from the original and translate it yourself, or write from scratch.
 5. Click **Publish**.
-
-![WordPress pages list showing English pages with flag icons and plus icons to add translations](../../../assets/shared/placeholder.svg)
-
-_Screenshot: WordPress pages list with Polylang language columns showing flags and add translation links_
 
 ### Translate products
 

@@ -2,6 +2,7 @@
 title: Translate Milano with Loco Translate
 description: Use the free Loco Translate plugin to translate Milano theme strings into any language.
 sidebar:
+  label: Loco Translate Guide
   order: 2
 ---
 
@@ -22,10 +23,6 @@ Loco Translate is a free WordPress plugin. It reads the theme's translation temp
 3. Click **Install Now** on the Loco Translate result by Tim Whitlock.
 4. Click **Activate**.
 
-![WordPress plugin search results showing Loco Translate by Tim Whitlock with the Install Now button visible](../../../assets/shared/placeholder.svg)
-
-_Screenshot: WordPress plugin search results with Loco Translate highlighted_
-
 ## Create a new language for Milano
 
 1. Go to **Loco Translate → Themes** in your WordPress admin.
@@ -35,12 +32,8 @@ _Screenshot: WordPress plugin search results with Loco Translate highlighted_
 5. Select a location to save the translation file.
 6. Click **Start translating**.
 
-![Loco Translate new language screen with language dropdown and location options for Milano theme](../../../assets/shared/placeholder.svg)
-
-_Screenshot: Loco Translate new language screen showing language selection and file location options_
-
 :::caution
-Save your translation file in the **custom** location, not the **author** or **system** location. Files saved in the author or system folders get overwritten when you update the theme. The custom folder lives outside the theme directory and keeps your translations safe.
+Save your translation file in the **system** location (listed as "Language" or the default option), not the **author** location. Files saved in the author folder get overwritten when you update the theme. The system folder (`wp-content/languages/themes/`) is the standard WordPress location — it keeps your translations safe and they still work after you deactivate Loco Translate.
 :::
 
 ## Translate individual strings
@@ -51,10 +44,6 @@ You now see a list of every translatable string in Milano. The left column shows
 2. Click on a string to open the translation field.
 3. Type your translation in the bottom text box.
 4. Click **Save** to store the translation.
-
-![Loco Translate string editor showing original English text on the left and translation input field on the right](../../../assets/shared/placeholder.svg)
-
-_Screenshot: Loco Translate string editor with a sample string being translated_
 
 :::tip
 Translate the most visible strings first. Focus on navigation labels, button text, and checkout messages. These affect the customer experience the most. You can always come back and translate the rest later.
@@ -90,14 +79,14 @@ When you update Milano, new strings may appear. Your existing translations stay 
 4. Translate the new strings and click **Save**.
 
 :::caution
-This is why you saved to the custom location. If you saved to the author location, a theme update would wipe out all your translations. Check that your file path includes `loco/themes/` rather than `themes/milano/languages/`.
+This is why you saved to the system location. If you saved to the author location, a theme update would wipe out all your translations. Check that your file path includes `languages/themes/` rather than `themes/milano/languages/`.
 :::
 
 ## Troubleshooting
 
 **Problem:** Translations do not appear on the site.
 
-**Fix:** Check that the translation file is in the custom location. Go to **Loco Translate → Themes → Milano** and look at the file path. It should read something like `/wp-content/languages/loco/themes/milano-xx_XX.po`. If it shows the theme folder instead, create a new translation in the custom location and re-enter your work.
+**Fix:** Check that the translation file is in the system location. Go to **Loco Translate → Themes → Milano** and look at the file path. It should read something like `/wp-content/languages/themes/milano-xx_XX.po`. If it shows the theme folder instead, create a new translation in the system location and re-enter your work.
 
 **Problem:** Some strings still show in English.
 
