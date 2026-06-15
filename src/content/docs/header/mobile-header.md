@@ -9,7 +9,9 @@ The mobile header replaces the desktop layout when visitors view your site on ph
 
 ## Design the mobile layout
 
-Switch to the **Mobile** tab in the header builder. The mobile builder works the same way as the desktop one — add elements into rows and columns, configure row settings, and reorder by dragging. See [Header builder](../header-builder/) for the full walkthrough.
+Switch to the **Mobile** tab in the header builder. The mobile builder works the same way as the desktop one — add elements into rows and columns, configure row settings, and reorder by dragging.
+
+![Mobile Header builder showing the two rows](../../../assets/header/mobile-header-builder.jpg)
 
 The mobile header supports the same elements but typically with fewer columns and simpler layouts:
 
@@ -22,6 +24,8 @@ The mobile header supports the same elements but typically with fewer columns an
 ## Hamburger menu
 
 The hamburger menu is the panel that slides in when a visitor taps the menu icon. You control what appears inside it from **Appearance → Customize → Mobile → Mobile Menu**.
+
+![Mobile header hamburger menu settings](../../../assets/header/mobile-header-hamburger.jpg)
 
 ### Choose and order elements
 

@@ -1,20 +1,30 @@
 ---
 title: Header Layout
-description: The Milano header has three rows — top bar, main header, and bottom row. Learn what each row does and how to use the header builder.
+description: The Milano header is split into desktop and mobile views. Learn about the top bar, desktop header, and mobile header.
 sidebar:
   label: Header Layout
   order: 1
 ---
 
-The Milano header is made up of three rows stacked vertically. Each row holds different content, and you control what goes in them with the header builder.
+The Milano header has two separate layouts — one for desktop and one for mobile. You design each one independently using the header builder.
 
-## Row structure
+## Header structure
 
-| Row             | What it contains                                                                                                |
-| --------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Top bar**     | A narrow strip above the main header. Use it for announcements, social links, language and currency switchers.  |
-| **Main header** | The primary row with your logo, navigation menu, search, cart, and account icons.                               |
-| **Bottom row**  | A row below the main header. Use it for category navigation with images, submenus, or any other header element. |
+| View               | What it contains                                                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Top bar**        | A narrow strip above the desktop header. Use it for announcements, social links, language and currency switchers.                    |
+| **Desktop header** | The main desktop layout with your logo, navigation menu, search, cart, and account icons. It has three rows — top, main, and bottom. |
+| **Mobile header**  | A separate layout for phones and tablets. Typically includes logo, hamburger menu, search, and cart.                                 |
+
+## Container width
+
+Open **Appearance → Customize → Header → Header** to set the container width for the entire header.
+
+| Option         | Behavior                                    |
+| -------------- | ------------------------------------------- |
+| **Boxed**      | Fixed-width container, centered on the page |
+| **Wide**       | Full-width with padding on each side        |
+| **Full Width** | Edge-to-edge with no padding                |
 
 ## What you can do
 
@@ -24,4 +34,4 @@ The Milano header is made up of three rows stacked vertically. Each row holds di
 
 ## Related settings
 
-The **Header** panel in the Customizer controls colors, fonts, sizes, and other visual options. See [Header settings](../theme-settings/header/).
+The **Header** panel in the Customizer also controls sticky behavior, colors, fonts, and other visual options. See [Header settings](../theme-settings/header/).

@@ -9,7 +9,13 @@ The top bar is a narrow strip above the main header row. Use it for content that
 
 Open **Appearance → Customize → Header → Top Bar** to configure it.
 
-## What you can add
+## Columns and elements
+
+The top bar is split into three columns — **Left**, **Center**, and **Right**. Each column has its own repeater control where you add and arrange items.
+
+Unlike the [header builder](../header-builder/), the top bar doesn't use a drag-and-drop layout builder. Instead, each column works like a list. Click **+ Add Element** on a column to add items, then drag to reorder them within that column. You can't drag elements between columns or change column widths.
+
+## Elements available
 
 | Setting               | Description                                                             |
 | --------------------- | ----------------------------------------------------------------------- |
@@ -22,4 +28,6 @@ Open **Appearance → Customize → Header → Top Bar** to configure it.
 
 The top bar has its own visibility toggle in the Customizer. When turned off, the main header starts at the very top of the page.
 
-![Customizer panel showing the Top Bar settings with announcement text and social links](../../../assets/shared/placeholder.svg)
+## Next steps
+
+- [Explore the header builder](../header-builder/) — design the main header layout with a drag-and-drop builder.

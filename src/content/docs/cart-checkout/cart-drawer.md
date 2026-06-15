@@ -1,5 +1,5 @@
 ---
-title: Mini cart
+title: Cart Drawer
 description: Configure the slide-out cart drawer, choose icon behavior, and enable auto-open, coupon field, shipping calculator, and recommendations.
 sidebar:
   order: 4

@@ -7,17 +7,17 @@ sidebar:
 
 Open **Appearance → Customize → Header** to open the header builder.
 
-## Row structure
+## Rows structure
 
-The header has three rows stacked vertically. Each row is divided into three columns — left, center, and right — so you can place elements on either side or in the middle.
+The desktop header has three rows stacked vertically. Each row is divided into three columns — left, center, and right — so you can place elements on either side or in the middle.
 
-| Row             | Description                                                                                                    |
-| --------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Top bar**     | A narrow strip above the main header. Use it for announcements, social links, language and currency switchers. |
-| **Main header** | The primary row with your logo, navigation menu, search, cart, and account icons.                              |
-| **Bottom row**  | A row below the main header. Use it for category navigation, submenus, or any other element.                   |
+| Row               | Description                                                                                                    |
+| ----------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Header Top**    | A narrow strip above the main header. Use it for announcements, social links, language and currency switchers. |
+| **Header Main**   | The primary row with your logo, navigation menu, search, cart, and account icons.                              |
+| **Header Bottom** | A row below the main header. Use it for category navigation, submenus, or any other element.                   |
 
-![Header builder showing the three rows — top bar, main header, and bottom row](../../../assets/shared/placeholder.svg)
+![Header builder showing the three rows — header top, header main, and header bottom](../../../assets/header/desktop-header-builder.jpg)
 
 ## Columns
 
@@ -51,10 +51,9 @@ Each row has its own settings panel. Click the row to open it. You can configure
 | **Text color**       | Default text and link color for elements inside the row.           |
 | **Element gap**      | Spacing between elements within the same column.                   |
 | **Padding**          | Top and bottom padding for the row.                                |
-| **Container width**  | Make the row full-width or constrained to the site container.      |
 | **Border**           | Add a bottom border to separate the row from the content below.    |
 
-![Row settings panel showing height, colors, gap, and padding options](../../../assets/shared/placeholder.svg)
+![Row settings panel showing height, colors, gap, and padding options](../../../assets/header/desktop-header-builder-row-settings.jpg)
 
 ## Templates
 
@@ -66,7 +65,7 @@ Click **Templates** at the bottom right of the header builder to open the templa
 - **Save current layout** — save your header as a custom template with a name you choose.
 - **Remove a template** — delete a custom template you no longer need.
 
-![Template dialog showing prebuilt header templates](../../../assets/shared/placeholder.svg)
+![Template dialog showing prebuilt header templates](../../../assets/header/header-builder-templates.jpg)
 
 ## Available elements
 
@@ -77,4 +76,3 @@ Click **Templates** at the bottom right of the header builder to open the templa
 - [Account](../account/) — login link or account icon (requires WooCommerce)
 - [Phone](../phone/) — phone number with business hours
 - [Email](../email/) — email address
-- [Custom HTML](../custom-html/) — your own HTML content

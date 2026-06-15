@@ -1,33 +1,26 @@
 ---
 title: Logo
-description: Display your site logo in the header. Set a main logo, an alternative version for sticky or transparent states, and different widths per device.
+description: Set your site logo in the Customizer — desktop and mobile versions, plus an alternative logo for the transparent header.
 sidebar:
   order: 6
 ---
 
-The logo element shows your site logo in the header.
-
-## Where to find it
-
-Header builder → **+ Add Element** → **Logo**
+Configure your site logo in **Appearance → Customize → Header → Logo**. This is where you set the logo images for different devices and header states.
 
 ## Settings
 
-| Setting              | Description                                                                                                        |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Desktop logo**     | The main logo shown on desktop and tablet screens.                                                                 |
-| **Mobile logo**      | A separate logo for mobile devices. Often a cropped or simpler version. Falls back to the desktop logo if not set. |
-| **Alternative logo** | A different logo used when the header is in sticky or transparent state. Often a smaller or inverted version.      |
-| **Logo width**       | Set different widths for desktop, tablet, and mobile screens.                                                      |
+| Setting              | Description                                                                                       |
+| -------------------- | ------------------------------------------------------------------------------------------------- |
+| **Logo**             | A responsive image control. Upload different logo images for desktop, tablet, and mobile screens. |
+| **Alternative logo** | A different logo used when the header is transparent. Often a light version on dark backgrounds.  |
+| **Logo width**       | Set different widths for desktop, tablet, and mobile screens.                                     |
 
-## Prerequisites
+## Alternative logo
 
-A logo must be set in **Appearance → Customize → Site Identity**. The logo element uses that image by default.
-
-![Header builder with the Logo element selected and its settings panel open](../../../assets/shared/placeholder.svg)
+The **Alternative logo** is useful when you use a [transparent header](../transparent-header/). For example, if your main logo is dark, you can upload a light version as the alternative so it's visible on a dark hero section or page header.
 
 ## Related settings
 
-- [Site Identity](../theme-settings/site-identity/) — set the default logo
+- [Transparent header](../transparent-header/) — use the alternative logo with a transparent header
 - [Sticky header](../sticky-header/)
-- [Transparent header](../transparent-header/)
+- [Mobile header](../mobile-header/)

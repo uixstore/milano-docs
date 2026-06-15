@@ -11,4 +11,4 @@ Milano customizes the WooCommerce cart and checkout experience with features lik
 
 - [Default cart & checkout](./cart-and-checkout/) — set up block-based cart and checkout pages
 - [Classic cart & checkout](./classic-cart-checkout/) — classic shortcode pages with urgency banners, recommendations, trust badges, and trust content
-- [Mini cart](./mini-cart/) — configure the slide-out cart drawer, free shipping bar, and coupon field
+- [Mini cart](./cart-drawer/) — configure the slide-out cart drawer, free shipping bar, and coupon field

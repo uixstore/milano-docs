@@ -7,15 +7,10 @@ sidebar:
 
 The email element displays your email address.
 
+:::note[Global source]
+The email address is set in **Customize → Store → Contact Information**. Changes there will update the email element automatically.
+:::
+
 ## Where to find it
 
 Header builder → **+ Add Element** → **Email**
-
-## Settings
-
-| Setting           | Description                    |
-| ----------------- | ------------------------------ |
-| **Email address** | The email to display.          |
-| **Display mode**  | Icon only, text only, or both. |
-
-![Header builder with the Email element selected showing the address and display mode options](../../../assets/shared/placeholder.svg)

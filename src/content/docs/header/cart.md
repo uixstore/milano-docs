@@ -19,8 +19,8 @@ Header builder → **+ Add Element** → **Cart**
 | **Cart behavior** | Link to the cart page, or open a slide-in drawer. |
 | **Icon style**    | Choose from available cart icon styles.           |
 
+For detailed configuration of the slide-in drawer — including auto-open, recommendations, coupon field, shipping calculator, and order notes — see the [Cart Drawer](../cart-checkout/cart-drawer.md) docs.
+
 ## Prerequisites
 
 WooCommerce must be installed and active.
-
-![Header builder with the Cart element selected showing display type and behavior options](../../../assets/shared/placeholder.svg)

@@ -21,5 +21,3 @@ Header builder → **+ Add Element** → **Account**
 ## Prerequisites
 
 WooCommerce must be installed and active.
-
-![Header builder with the Account element selected showing display type and interaction options](../../../assets/shared/placeholder.svg)

@@ -18,17 +18,18 @@ A transparent header has no background color, so page content (like a hero image
 3. Go to the **Header** section.
 4. Turn on **Enable transparent header**.
 
-![Elementor Page Settings with the Header tab showing the Enable transparent header toggle](../../../assets/shared/placeholder.svg)
+![Elementor Page Settings with the Header tab showing the Enable transparent header toggle](../../../assets/header/transparent-header-settings.jpg)
+
+You can also enable **Use Alternative Logo** to optionally set a different logo for the transparent state (e.g. a white version).
 
 ## Colors for transparent state
 
-When transparency is on, the text and link colors switch to a separate set so they stay readable against the page background. These are set in the same **Page Settings → Header** panel.
+When transparency is on, the text and link colors switch to a separate set so they stay readable against the page background. These are set in the same **Page Settings → Style -> Header** section.
 
-| Setting          | Description                                                                       |
-| ---------------- | --------------------------------------------------------------------------------- |
-| **Text color**   | Color for header text and links when transparent.                                 |
-| **Accent color** | Color for hover states and interactive elements.                                  |
-| **Logo**         | Optionally set a different logo for the transparent state (e.g. a white version). |
+| Setting              | Description                                       |
+| -------------------- | ------------------------------------------------- |
+| **Text color**       | Color for header text and links when transparent. |
+| **Background color** | Color for hover states and interactive elements.  |
 
 :::tip
 The transparent header works best on pages with a hero image or video at the top. On pages without one, you may want to disable transparency and use the standard header colors.

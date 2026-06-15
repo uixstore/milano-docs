@@ -21,4 +21,4 @@ Header builder → **+ Add Element** → **Search**
 | **Trending keywords** | Show popular search terms below the search field.              |
 | **Default products**  | Show placeholder products when the search field is empty.      |
 
-![Header builder with the Search element selected showing trigger type and AJAX search options](../../../assets/shared/placeholder.svg)
+![Header builder with the Search element selected showing trigger type and AJAX search options](../../../assets/header/header-search-settings.jpg)

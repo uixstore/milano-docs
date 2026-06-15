@@ -24,8 +24,6 @@ Header builder → **+ Add Element** → **Primary Menu**
 
 A menu must be created under **Appearance → Menus** and assigned to a location.
 
-![Header builder with the Primary Menu element selected showing menu selection and dropdown options](../../../assets/shared/placeholder.svg)
-
 ## Related settings
 
 - [Create a menu](../../navigation/create-a-menu/)
