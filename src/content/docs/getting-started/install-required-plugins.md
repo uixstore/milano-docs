@@ -26,9 +26,7 @@ Milano requires two plugins to work: WooCommerce and Elementor. The [setup wizar
 
 The wizard shows a checklist of plugins on its **Plugins** step. Required plugins are pre-selected; you can deselect any you don't want, then click **Continue** to install and activate the whole batch in one go.
 
-![Milano Plugins step with WooCommerce and Elementor pre-selected](../../../assets/shared/placeholder.svg)
-
-_Setup wizard Plugins step with the required plugins pre-selected and the bulk-install button highlighted._
+![Milano Plugins step with WooCommerce and Elementor pre-selected](../../../assets/getting-started/install-plugins--wizard.png)
 
 The button shows a spinner while each plugin is installed and activated. When the queue finishes, the wizard advances to the Templates (demo import) step.
 
@@ -40,6 +38,8 @@ If you skipped the wizard or want to manage plugins later, use the Plugins tab:
 2. Click the **Plugins** tab.
 3. Check the boxes next to the plugins you want.
 4. Click **Install** (or **Activate**, if they're already installed) to apply the selection.
+
+![Milano Plugins installable from the theme's dashboard](../../../assets/getting-started/install-plugins--from-dashboard.png)
 
 The Plugins tab uses the same checklist as the wizard, so the install and activate actions behave identically.
 

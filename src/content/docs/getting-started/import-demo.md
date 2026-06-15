@@ -43,23 +43,13 @@ A demo import is the fastest way to a working site, but it is not always the rig
 
 1. Go to **Milano → Demos** in your WordPress admin.
 
-   ![Milano Demos screen showing available demo cards](../../../assets/shared/placeholder.svg)
-
-   _Milano → Demos screen with the grid of demo cards and thumbnails._
+   ![Milano Demos screen showing available demo cards](../../../assets/getting-started/milano-demos.jpg)
 
 2. Browse the demos and click **Import** on the one you want.
 
 3. A confirmation dialog appears. Click **Import** to start.
 
-   ![Demo import confirmation dialog](../../../assets/shared/placeholder.svg)
-
-   _Import confirmation dialog with the "Import" button highlighted._
-
 4. Wait for the import to finish. You will see a progress bar for each step: installing plugins, importing content, Customizer settings, and widgets.
-
-   ![Demo import progress screen](../../../assets/shared/placeholder.svg)
-
-   _Import progress screen showing step-by-step progress bars._
 
 5. When the import is complete, click **View your site** to see the result.
 

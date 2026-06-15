@@ -58,12 +58,7 @@ export default defineConfig({
 
         {
           label: "How to's & Guides",
-          items: [
-            { link: 'how-tos-guides/add-a-mailchimp-signup-form' },
-            { link: 'how-tos-guides/load-google-fonts-locally' },
-            { link: 'how-tos-guides/show-the-registration-form' },
-            { link: 'how-tos-guides/push-out-of-stock-products-to-the-bottom' },
-          ],
+          items: [{ autogenerate: { directory: 'how-tos-guides' } }],
         },
         {
           label: 'Support & Updates',

@@ -17,8 +17,6 @@ This is a mobile-only feature. It does not appear on desktop screens.
 
 ![Customizer showing the Bottom Bar section with the Enable checkbox](../../../assets/shared/placeholder.svg)
 
-<!-- TODO(screenshot): Customizer Mobile → Bottom Bar panel with Enable checkbox and the bar items listed below -->
-
 The bottom bar appears on all mobile pages once published.
 
 ## Choose which icons appear

@@ -21,12 +21,10 @@ You must register your purchase code before Milano can check for updates.
 1. Log in to your ThemeForest account.
 2. Go to your **Downloads** page.
 3. Find Milano in your list and click **Download** next to it.
-4. Select **License certificate** from the dropdown. This downloads a text or PDF file.
+4. Select **License certificate & purchase code** from the dropdown. This downloads a text or PDF file.
 5. Open the file and copy the **Purchase Code** — it looks like a long string of letters, numbers, and dashes.
 
-![ThemeForest Downloads page with the License certificate download option highlighted](../../../assets/shared/placeholder.svg)
-
-_ThemeForest Downloads page with the "License certificate" option highlighted in the dropdown next to Milano._
+For more details, you can refer to the [Where Is My Purchase Code?](https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code) tutorial.
 
 ## Enter your purchase code in Milano
 
@@ -34,9 +32,7 @@ _ThemeForest Downloads page with the "License certificate" option highlighted in
 2. Paste your purchase code into the **License Key** field.
 3. Click **Activate License**.
 
-![Milano License screen with the License Key field and Activate License button highlighted](../../../assets/shared/placeholder.svg)
-
-_Milano → Dashboard → License screen with the license key input field and "Activate License" button highlighted._
+![Milano License screen with the License Key field and Activate License button highlighted](../../../assets/getting-started/register-purchase-code.png)
 
 You will see a confirmation message when the license is active. Milano can now check for updates.
 

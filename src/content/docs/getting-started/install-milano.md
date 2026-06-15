@@ -30,27 +30,15 @@ Next: [Before you begin](../before-you-begin/) for a full checklist of what you 
 
 3. Click **Add New** at the top of the page.
 
-   ![WordPress Themes screen with the Add New button highlighted](../../../assets/shared/placeholder.svg)
-
-   _WordPress Themes screen with the "Add New" button highlighted._
+   ![WordPress Themes screen with the Add New button highlighted](../../../assets/getting-started/install-theme--add-new.png)
 
 4. Click **Upload Theme** at the top of the Add Themes page.
 
-   ![Add Themes page with the Upload Theme button highlighted](../../../assets/shared/placeholder.svg)
-
-   _Add Themes page with the "Upload Theme" button highlighted._
-
 5. Click **Choose File**, select the Milano zip file from your computer, then click **Install Now**.
 
-   ![Theme upload form with the Milano zip file selected](../../../assets/shared/placeholder.svg)
-
-   _Theme upload form with the Milano zip file selected and the "Install Now" button highlighted._
+   ![Theme upload form with the Milano zip file selected](../../../assets/getting-started/install-theme--upload.png)
 
 6. Wait for WordPress to upload and install the theme. You will see a success message when it finishes.
-
-   ![Theme installation success message with the Activate link highlighted](../../../assets/shared/placeholder.svg)
-
-   _Theme installation success screen with the "Activate" link highlighted._
 
 7. Click **Activate** to turn Milano on.
 

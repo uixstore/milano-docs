@@ -30,9 +30,7 @@ The wizard runs as a full-screen page with the WordPress admin chrome hidden. It
 
 A stepper bar at the top shows all five steps and which one is active. The current step fills the main panel. You move between steps with **Continue** and **Back** buttons; most steps also have a **Skip this step** link.
 
-![Setup wizard with the stepper bar at the top and the Welcome step active](../../../assets/shared/placeholder.svg)
-
-_Setup wizard with the five steps visible at the top and the Welcome step active in the panel — purchase-code field and license-agreement checkbox._
+![Setup wizard with the stepper bar at the top and the Welcome step active](../../../assets/getting-started/setup-wizard.png)
 
 ## Re-launch the wizard
 
@@ -76,11 +74,10 @@ The wizard runs steps 3–6 for you. Steps 1 and 2 are always manual — you hav
 
 ## Troubleshooting
 
-**Problem:** The wizard does not appear after activation.
-**Fix:** Some hosts delay admin notices on a fresh install. Refresh the WordPress admin, then re-launch the wizard from **Milano → Dashboard → License → Re-run the Setup Wizard**. If the wizard is still missing, deactivate and reactivate the theme under **Appearance → Themes**.
+- **Problem:** The wizard does not appear after activation.
 
-**Problem:** A wizard step fails or shows an error.
-**Fix:** The wizard stops on the failing step. Identify which step is stuck — Welcome, Child Theme, Plugins, or Templates — and check the [Troubleshooting](../register-purchase-code/) section on the corresponding guide page. Fix the underlying issue, then re-run the wizard to retry.
+  **Fix:** Some hosts delay admin notices on a fresh install. Refresh the WordPress admin, then re-launch the wizard from **Milano → Dashboard → License → Re-run the Setup Wizard**. If the wizard is still missing, deactivate and reactivate the theme under **Appearance → Themes**.
 
-**Problem:** I want to change a step I already completed.
-**Fix:** Re-run the wizard. It starts from the Welcome step regardless of completion state, so you can redo any step.
+- **Problem:** I want to change a step I already completed.
+
+  **Fix:** Re-run the wizard. It starts from the Welcome step regardless of completion state, so you can redo any step.

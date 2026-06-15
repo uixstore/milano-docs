@@ -57,6 +57,6 @@ After activation, go to **Appearance → Themes**. You should see two Milano the
 - **Milano** — the parent theme.
 - **Milano Child** — the child theme, marked as **Active**.
 
-![Themes screen with Milano Child marked as active](../../../assets/shared/placeholder.svg)
+![Themes screen with Milano Child marked as active](../../../assets/getting-started/child-theme-activate.png)
 
 _Themes screen with Milano Child marked as the active theme._
