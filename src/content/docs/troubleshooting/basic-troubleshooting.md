@@ -12,7 +12,7 @@ When something does not work right, the first thing to find out is where the pro
 Cached files can make it look like something is broken when it is not. Clear these in order:
 
 1. **Browser cache.** Do a hard refresh: Ctrl + F5 on Windows, Cmd + Shift + R on Mac.
-2. **Caching plugin cache.** If you use WP Super Cache, W3 Total Cache, WP Rocket, or another caching plugin, clear its cache. See [Caching tips](../performance-seo/caching-tips/) for instructions by plugin.
+2. **Caching plugin cache.** If you use WP Super Cache, W3 Total Cache, WP Rocket, or another caching plugin, clear its cache from the plugin's settings page.
 3. **CDN cache.** If you use Cloudflare or another CDN, purge the cache there too.
 
 Check your site after each step. If the problem goes away, the cache was the cause.

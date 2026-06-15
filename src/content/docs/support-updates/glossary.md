@@ -15,7 +15,7 @@ This glossary defines terms you will see throughout this documentation. Each ent
 
 ## C
 
-**Cache** — a saved copy of your pages that loads faster for visitors. Caching plugins store static versions of your pages so WordPress does not need to build them from scratch each time. See [Caching tips](../performance-seo/caching-tips/).
+**Cache** — a saved copy of your pages that loads faster for visitors. Caching plugins store static versions of your pages so WordPress does not need to build them from scratch each time.
 
 **Child theme** — a theme that inherits another theme (the parent theme). A child theme lets you add custom code or override styles without losing your changes when the parent theme updates. Milano includes a child theme in your download package.
 

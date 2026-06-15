@@ -50,10 +50,7 @@ export default defineConfig({
           label: 'Theme Modules',
           items: [{ autogenerate: { directory: 'theme-modules' } }],
         },
-        {
-          label: 'Performance & SEO',
-          items: [{ autogenerate: { directory: 'performance-seo' } }],
-        },
+
         {
           label: 'Translation',
           items: [{ autogenerate: { directory: 'translation' } }],

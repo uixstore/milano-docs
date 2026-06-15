@@ -49,7 +49,7 @@ Milano itself rarely causes white screens. If the white screen appeared after ac
 **Fix:**
 
 1. Clear your browser cache. Do a hard refresh: Ctrl + F5 on Windows, Cmd + Shift + R on Mac.
-2. Clear your caching plugin cache. See [Caching tips](../performance-seo/caching-tips/) for instructions by plugin.
+2. Clear your caching plugin cache from the plugin's settings page.
 3. If you use a CDN, purge the CDN cache.
 4. Check that all Milano files uploaded correctly. Go to **Appearance → Theme File Editor**. If you see an error about missing files, re-upload the theme. See [Update Milano](../support-updates/update-milano/) for the manual upload method.
 

@@ -418,23 +418,18 @@ Direction: **concise, friendly, nothing fancy.**
     ├── WPML guide
     └── Polylang guide
 
-14. Performance & SEO
-    ├── Caching tips
-    ├── Image optimization
-    └── SEO plugin compatibility (links to section 12)
-
-15. Customize Further (advanced)
+14. Customize Further (advanced)
     ├── Child themes
     └── Custom CSS snippets
 
-16. Troubleshooting & FAQ
+15. Troubleshooting & FAQ
     ├── Common issues
     └── Before you contact support
 
-17. Glossary
+16. Glossary
     └── (single page — WP/Woo/Milano terms defined once, linked from first use)
 
-18. Support & Updates
+17. Support & Updates
     ├── Support policy
     ├── Update Milano
     └── Changelog
@@ -694,7 +689,7 @@ Decided not to set up doc versioning. Single source of truth on `main`, deployed
 
 ### G. Content readiness — gates for public launch
 
-- [ ] All 18 sections complete (per Step 4 nav tree)
+- [ ] All 17 sections complete (per Step 4 nav tree)
 - [ ] Glossary seeded with the Step 3 terminology lock-ins
 - [ ] 404 page customized — message + helpful links instead of generic Starlight 404
 - [ ] Every page has a `description` and at least one "next step" link

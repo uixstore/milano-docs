@@ -23,7 +23,7 @@ Pre-commit (husky + lint-staged) auto-formats and lints staged `.md` files. Do n
 
 - **Framework**: Starlight (Astro). Pages are plain Markdown/MDX in `src/content/docs/<section>/`.
 - **`base: '/milano'`** in `astro.config.mjs` — all internal links/assets are prefixed. Never change this.
-- **Sidebar is explicitly configured** in `astro.config.mjs` — not auto-generated from folders. 18 sections.
+- **Sidebar is explicitly configured** in `astro.config.mjs` — not auto-generated from folders. 17 sections.
 - **Images** live in `src/assets/<section>/<page>/`, mirroring the docs folder structure. Astro optimizes at build.
 - **No code logic** — this is a pure documentation site.
 
@@ -35,7 +35,7 @@ src/content/docs/
 ├── getting-started/index.md      # 18 section landing pages exist as stubs
 ├── demos/
 ├── customizer/
-└── ... (18 sections total — see astro.config.mjs sidebar)
+└── ... (17 sections total — see astro.config.mjs sidebar)
 ```
 
 Folder names become URL slugs. Filenames become URL slugs within a folder.

@@ -12,7 +12,7 @@ We want to solve your problem as fast as possible. The steps below help us narro
 Most issues have a solution in this docs site. Before you open a ticket, work through this list:
 
 1. **Read the common issues page.** Many problems have a documented fix. See [Common issues](../troubleshooting/common-issues/).
-2. **Clear your cache.** Browser cache, caching plugin cache, and CDN cache can all make it look like something is broken when it is not. See [Caching tips](../performance-seo/caching-tips/) for how to clear each one.
+2. **Clear your cache.** Browser cache, caching plugin cache, and CDN cache can all make it look like something is broken when it is not. Do a hard refresh (Ctrl + F5 on Windows, Cmd + Shift + R on Mac), clear your caching plugin from its settings page, and purge your CDN if you use one.
 3. **Disable all plugins except WooCommerce.** A plugin conflict is the most common cause of layout breaks, white screens, and missing features. Go to **Plugins**, select all plugins except WooCommerce, choose "Deactivate" from the bulk actions dropdown, and click **Apply**. Check if the issue goes away. If it does, re-enable plugins one at a time until the issue returns. The last plugin you enabled is the cause.
 4. **Switch to a default WordPress theme.** Go to **Appearance → Themes** and activate Twenty Twenty-Four (or any default WordPress theme). If the issue persists, the problem is not with Milano — it is with your WordPress setup, a plugin, or your server.
 5. **Check your PHP version and limits.** Go to **Tools → Site Health → Info**. Milano needs PHP 7.4 or higher, at least 256 MB of memory, and a `max_execution_time` of 120 seconds or more. If your limits are lower, ask your host to increase them.

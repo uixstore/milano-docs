@@ -29,7 +29,7 @@ The sorting applies per page. If page one has 12 in-stock products and 3 out-of-
 ## Troubleshooting
 
 **Problem:** Out-of-stock products still appear mixed with in-stock products.
-**Fix:** Clear your site cache. Caching plugins may serve an old version of the shop page. See [Caching tips](../performance-seo/caching-tips/) for how to clear your cache.
+**Fix:** Clear your site cache. Caching plugins may serve an old version of the shop page. Clear the cache from your caching plugin's settings page.
 
 **Problem:** All products disappear from the shop page.
 **Fix:** Check that you have products with the **Published** status. Draft or private products do not appear on the shop page regardless of stock status.

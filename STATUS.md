@@ -7,7 +7,7 @@ Companion to [`PLAN.md`](./PLAN.md). The plan locks decisions; this file tracks 
 ## Snapshot
 
 - Repo scaffolded with Starlight (Astro 6.3.3 + Starlight 0.39.2).
-- All 18 sections wired into the sidebar with stub `index.md` pages.
+- All 17 sections wired into the sidebar with stub `index.md` pages.
 - Quality gates in place: Prettier, markdownlint, husky pre-commit, Vale config skeleton.
 - GitHub Actions deploy workflow written (`.github/workflows/deploy.yml`).
 - Build verified: 26 pages generated locally; both Prettier and markdownlint pass clean.

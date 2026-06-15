@@ -80,5 +80,4 @@ After moving to HTTPS:
 
 ## Next steps
 
-- [Caching tips](../performance-seo/caching-tips/) — speed up your store after SSL is configured.
 - [GDPR compliance](./gdpr-compliance/) — configure cookie notices for EU visitors.
