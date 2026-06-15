@@ -17,7 +17,7 @@ The footer has up to three rows stacked vertically. Each row is divided into col
 | **Footer middle** | The main footer row. Typically contains widget columns and your footer menu. |
 | **Footer bottom** | The bottom row. Use it for copyright text, payment icons, or legal links.    |
 
-![Footer builder showing the three rows — footer top, footer middle, and footer bottom](../../../assets/shared/placeholder.svg)
+![Footer builder showing the three rows — footer top, footer middle, and footer bottom](../../../assets/footer/footer-builder.jpg)
 
 ## Columns
 
@@ -55,7 +55,7 @@ Each row has its own settings panel. Click the row to open it. You can configure
 | **Container width**  | Make the row full-width or constrained to the site container.      |
 | **Border**           | Add a top border to separate the row from the content above.       |
 
-![Row settings panel showing column count, widths, and color options](../../../assets/shared/placeholder.svg)
+![Row settings panel showing column count, widths, and color options](../../../assets/footer/footer-builder-row-settings.jpg)
 
 ## Copyright element
 
@@ -78,7 +78,7 @@ Click **Templates** at the bottom right of the footer builder to open the templa
 - **Save current layout** — save your footer as a custom template with a name you choose.
 - **Remove a template** — delete a custom template you no longer need.
 
-![Template dialog showing prebuilt footer templates](../../../assets/shared/placeholder.svg)
+![Template dialog showing prebuilt footer templates](../../../assets/footer/footer-builder-templates.jpg)
 
 ## Available elements
 
