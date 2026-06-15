@@ -1,5 +1,5 @@
 ---
-title: Basic troubleshooting
+title: Troubleshooting
 description: Step-by-step checks to find out if a problem comes from Milano, a plugin, or your server.
 sidebar:
   order: 2

@@ -94,9 +94,9 @@ Contact Milano support if:
 - The debug log points to a Milano theme file.
 - The error started after a Milano update.
 
-Include your `debug.log` file and a description of what you were doing when the error appeared. See [Before you contact support](../troubleshooting/before-you-contact-support/) for what information to gather.
+Include your `debug.log` file and a description of what you were doing when the error appeared. See [Contact support](../support-updates/contact-support/) for what information to gather.
 
 ## Next steps
 
-- [Before you contact support](../troubleshooting/before-you-contact-support/) — prepare the information support needs.
-- [Common issues](../troubleshooting/common-issues/) — other frequent problems and their fixes.
+- [Contact support](../support-updates/contact-support/) — prepare the information support needs.
+- [Troubleshooting](../support-updates/troubleshooting/) — other frequent problems and their fixes.

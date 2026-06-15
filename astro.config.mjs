@@ -60,10 +60,6 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'plugin-compatibility' } }],
         },
         {
-          label: 'Troubleshooting',
-          items: [{ autogenerate: { directory: 'troubleshooting' } }],
-        },
-        {
           label: "How to's & Guides",
           items: [{ autogenerate: { directory: 'how-tos-guides' } }],
         },
