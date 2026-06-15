@@ -15,7 +15,7 @@ This is a mobile-only feature. It does not appear on desktop screens.
 2. Check the **Enable Bottom Bar** box.
 3. Click **Publish**.
 
-![Customizer showing the Bottom Bar section with the Enable checkbox](../../../assets/shared/placeholder.svg)
+![Customizer showing the Bottom Bar section with the Enable checkbox](../../../assets/navigation/mobile-bottom-bar.jpg)
 
 The bottom bar appears on all mobile pages once published.
 

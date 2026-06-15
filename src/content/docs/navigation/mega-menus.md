@@ -24,68 +24,63 @@ Mega menus suit desktop screens. On mobile, Milano collapses all menu items into
 1. Go to **Appearance → Menus**.
 2. Select the menu that contains the item you want to convert.
 3. Click the arrow on the menu item to expand its settings.
-4. Check the box labeled **Use as mega menu**.
-5. Click **Save menu**.
+4. Check the box labeled **Mega Menu**.
+5. Enable the setting **Enable mega menu**.
+6. Click **Save changes**.
 
-![Menu item settings with the Use as mega menu checkbox highlighted](../../../assets/shared/placeholder.svg)
+![Open mega menu editor](../../../assets/navigation/open-mega-menu-editor.jpg)
 
-_Screenshot: Expanded menu item settings showing the Use as mega menu checkbox._
+![Menu item settings with the Use as mega menu checkbox highlighted](../../../assets/navigation/mega-menu-grid-editor.jpg)
 
 The item now opens a wide panel on hover instead of a narrow dropdown.
+
+## Add rows to your mega menu
+
+You can organize your mega menu content across multiple rows.
+
+1. Open the mega menu item editor.
+2. Click the **Add row** button to create a new row.
+3. Add columns or menu items to each row as needed.
+4. Click **Save menu**.
+
+Each row can hold its own set of columns, giving you flexible control over the layout.
 
 ## Add columns to your mega menu
 
 You control how content arranges inside the mega panel.
 
-1. Expand the mega menu item settings.
-2. Find the **Mega menu columns** field.
-3. Enter a number between two and four.
+1. Open the mega menu item editor.
+2. Click the **Add column** button to add a new column.
+3. Add menu items or widgets to each column as needed.
 4. Click **Save menu**.
 
-Child items of the mega menu parent distribute across the columns you set. Add more child items to fill each column.
+Child items of the mega menu parent distribute across the columns you create. Add more child items to fill each column.
 
 :::note
-The column setting only affects the layout of child menu items. It does not create empty columns on its own.
+Columns are empty until you add items or widgets to them.
 :::
 
 ## Add images to a mega menu
 
-You can place images inside a mega menu through a text widget.
+You can place images inside a mega menu column using the **Banner Image** widget.
 
-1. Go to **Appearance → Widgets**.
-2. Find the widget area that matches your mega menu item. Milano creates one for each mega menu item you turn on.
-3. Add a **Custom HTML** widget to that area.
-4. Insert your image HTML:
-
-```html
-<img src="/wp-content/uploads/your-image.jpg" alt="Description of image" />
-```
-
-1. Click **Update** to save the widget.
+1. In **Appearance → Menus**, expand the mega menu parent item.
+2. Select the column where you want the image to appear.
+3. Add a **Banner Image** widget item to that column.
+4. Upload or choose an image from the media library.
+5. Click **Save menu**.
 
 The image appears inside the mega menu panel on the front end.
 
-:::caution
-Upload your image through **Media → Add New** before adding it to the widget. The widget needs a URL that already exists on your server.
-:::
-
 ## Add widgets to a mega menu
 
-Milano creates a widget area for each mega menu item. You can fill it with any standard WordPress widget.
+You can add menu items and widgets directly into the mega menu columns, just like a standard menu.
 
-1. Go to **Appearance → Widgets**.
-2. Look for the widget area named after your mega menu item.
-3. Add widgets such as:
-   - **Recent posts** to show your latest articles
-   - **Product categories** to list WooCommerce categories
-   - **Custom HTML** for banners or promotional content
-   - **Text** for headings or descriptions
-4. Arrange the widgets in your preferred order.
-5. Click **Update**.
-
-![Widgets screen showing a mega menu widget area with a Recent posts widget added](../../../assets/shared/placeholder.svg)
-
-_Screenshot: WordPress widgets screen with a mega menu widget area containing a Recent posts widget._
+1. In **Appearance → Menus**, expand the mega menu parent item.
+2. You will see its columns listed as child levels.
+3. Select a column and click **Add items** to add links, or add a **Widget** item to place widgets inside that column.
+4. You can reorder items within each column by dragging them.
+5. Click **Save menu**.
 
 ## Set the mega menu width
 
@@ -93,10 +88,9 @@ You can control how wide the mega panel appears.
 
 1. Expand the mega menu item settings in **Appearance → Menus**.
 2. Find the **Mega menu width** field.
-3. Choose between **Full width** or **Container width**.
+3. Enter a custom width value (for example `1200px` or `90vw`).
 
-- **Full width** stretches the panel across the entire screen.
-- **Container width** keeps the panel aligned with your site content area.
+The mega panel will use the width you set. Leave the field empty to use the default width.
 
 1. Click **Save menu**.
 

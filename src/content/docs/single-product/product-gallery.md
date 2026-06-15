@@ -14,8 +14,6 @@ All settings live under **Appearance → Customize → Product Page → Gallery*
 
 Choose how customers browse product images.
 
-![Customizer panel showing gallery layout options — slider, stacked, grid, and masonry](../../../assets/shared/placeholder.svg)
-
 | Option      | Description                                           |
 | ----------- | ----------------------------------------------------- |
 | **Slider**  | A horizontal carousel with thumbnails and navigation. |
@@ -35,8 +33,6 @@ When using **Slider** layout, choose where thumbnails appear relative to the mai
 ## Zoom
 
 Turn on zoom so customers can inspect product details up close.
-
-![Single product page with zoom enabled on the main product image](../../../assets/shared/placeholder.svg)
 
 Three styles are available:
 
