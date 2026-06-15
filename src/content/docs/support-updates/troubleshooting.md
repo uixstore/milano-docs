@@ -40,7 +40,7 @@ This test tells you whether the issue comes from Milano or from something else o
 2. Activate a default WordPress theme like Twenty Twenty-Four or Twenty Twenty-Five.
 3. Check your site. Does the problem still happen?
 
-**If the problem is gone with the default theme**, the issue is with Milano. Note what was broken and [contact support](../support-updates/contact-support/).
+**If the problem is gone with the default theme**, the issue is with Milano. Note what was broken and see the [support policy](../support-updates/support-policy/).
 
 **If the problem still happens with the default theme**, the issue is not with Milano. It could be:
 
@@ -84,7 +84,7 @@ Some problems only show up in your browser's developer console. This is especial
 3. Reload the page where the problem happens.
 4. Look for red error messages.
 
-If you see errors, take a screenshot of the console and include it when you [contact support](../support-updates/contact-support/). This helps us find the cause faster.
+If you see errors, take a screenshot of the console and include it when you contact support. This helps us find the cause faster.
 
 ## Step 6 — Check your site URL settings
 
@@ -103,6 +103,6 @@ Changing these URLs to the wrong value can lock you out of your admin. Make sure
 
 After you run through these steps, you should know whether the problem comes from Milano, a plugin, or your server.
 
-- **The problem is with Milano.** Go to [Contact support](../support-updates/contact-support/) and include the results of the steps above.
+- **The problem is with Milano.** See the [support policy](../support-updates/support-policy/) and include the results of the steps above.
 - **The problem is a plugin.** Disable that plugin and look for an alternative. You can also check the plugin's own support page.
 - **The problem is your server.** Contact your host with the details from Step 4.

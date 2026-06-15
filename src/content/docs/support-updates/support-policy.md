@@ -43,13 +43,10 @@ Check the [Troubleshooting](./troubleshooting/) page before opening a support ti
 
 ## How to request support
 
-1. Go to your ThemeForest **Downloads** page.
-2. Find Milano and click **Support** next to it.
-3. Fill in the form with a clear description of the issue. Include your WordPress version, PHP version, and a link to your site if possible.
+1. Go to [uix.ticksy.com](https://uix.ticksy.com) and create an account.
+2. Submit a new ticket with a clear description of the issue. Include your WordPress version, PHP version, and a link to your site if possible.
 
-:::caution
-You must register your purchase code in Milano before you can receive support. Go to **Milano → Dashboard → License** and enter your code if you haven't already.
-:::
+You can open a ticket at any time as long as your support license is valid.
 
 ## Extending support
 
