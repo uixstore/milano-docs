@@ -55,10 +55,7 @@ export default defineConfig({
           label: 'Translation',
           items: [{ autogenerate: { directory: 'translation' } }],
         },
-        {
-          label: 'Plugin Compatibility',
-          items: [{ autogenerate: { directory: 'plugin-compatibility' } }],
-        },
+
         {
           label: "How to's & Guides",
           items: [{ autogenerate: { directory: 'how-tos-guides' } }],

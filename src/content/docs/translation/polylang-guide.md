@@ -175,6 +175,5 @@ These settings work well with Milano's header and footer builder.
 
 ## Next steps
 
-- Read the [Polylang compatibility notes](../plugin-compatibility/polylang/) for known issues with Milano.
 - Compare with the [WPML guide](./wpml-guide/) if you need a paid alternative with more built-in features.
 - Need a single-language translation? Try [Loco Translate](./translate-milano-with-loco-translate/) instead.
