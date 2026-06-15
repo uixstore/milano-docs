@@ -91,4 +91,4 @@ Product Card Swatches requires the WCBoost Variation Swatches plugin or variatio
 ## Next steps
 
 - [Product badges](../product-badges/) — show sale, new, pre-order, and sold-out badges on cards.
-- [Product page options](../../single-product/product-page-options/) — customize the single product page layout.
+- [Product gallery](../../single-product/product-gallery/) — configure image layout, thumbnails, zoom, and lightbox.

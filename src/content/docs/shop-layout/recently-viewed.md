@@ -45,5 +45,5 @@ Add a link to your Recently Viewed page in your footer or navigation menu so cus
 
 ## Next steps
 
-- [Product page options](../../single-product/product-page-options/) — configure related and upsell product sections.
+- [Product recommendations](../../single-product/product-recommendations/) — configure related and upsell product sections.
 - [Shop page layout](../shop-page-layout/) — set up your main shop page layout.

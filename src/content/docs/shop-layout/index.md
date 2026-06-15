@@ -16,3 +16,4 @@ The Shop Layout section covers how your product archive pages look and behave �
 - [Top categories](./top-categories/) — Display a carousel of product categories above the product grid.
 - [Category card](./category-card/) — Control how product category thumbnails look in the grid.
 - [Recently viewed](./recently-viewed/) — Show customers the products they recently browsed.
+- [Quick view](./quick-view/) — Let customers preview a product in a popup without leaving the shop page.

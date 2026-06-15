@@ -6,11 +6,14 @@ sidebar:
 draft: false
 ---
 
-The Single Product Page panel gives you control over every element a customer sees when viewing a product — from the image gallery to related products.
+The Single Product Page section gives you control over every element a customer sees when viewing a product — from the image gallery to related products.
 
 ## In this section
 
-- [Product page options](./product-page-options/) — Image gallery style, tabs, sticky summary, and related products.
+- [Product gallery](./product-gallery/) — Configure image layout, thumbnails, zoom, and lightbox.
+- [Product tabs](./product-tabs/) — Choose how product information is organized — tabs, accordion, or vertical layout.
+- [Product layout](./product-layout/) — Sticky summary, sticky add-to-cart, page header, and breadcrumbs.
+- [Product summary](./product-summary/) — Toggle summary elements, social-proof features, share buttons, and safe checkout.
+- [Product reviews](./product-reviews/) — Show a rating summary, star histogram, and standalone review section.
 - [Product variations and swatches](./product-variations-and-swatches/) — Display product attributes as color, image, or label swatches.
-- [Live sales notifications](./live-sales-notifications/) — Show recent purchase popups and visitor counters for social proof.
-- [Quick view](./quick-view/) — Let customers preview a product in a popup without leaving the shop page.
+- [Product recommendations](./product-recommendations/) — Show cross-sells, up-sells, and best-sellers on product and cart pages.
