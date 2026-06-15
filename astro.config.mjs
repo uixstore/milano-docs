@@ -45,10 +45,7 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'cart-checkout' } }],
         },
         { label: 'Blog', items: [{ autogenerate: { directory: 'blog' } }] },
-        {
-          label: 'Page Builder',
-          items: [{ autogenerate: { directory: 'page-builder' } }],
-        },
+
         {
           label: 'Theme Modules',
           items: [{ autogenerate: { directory: 'theme-modules' } }],

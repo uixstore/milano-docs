@@ -77,5 +77,4 @@ To match the button to your Milano store's style:
 
 ## Next steps
 
-- [Use Milano with the Block Editor](../page-builder/use-milano-with-the-block-editor/) — learn about Milano's Gutenberg blocks.
 - [Buttons](../theme-settings/buttons/) — customize button styles across your store.

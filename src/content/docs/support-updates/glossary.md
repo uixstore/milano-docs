@@ -29,7 +29,7 @@ This glossary defines terms you will see throughout this documentation. Each ent
 
 ## E
 
-**Elementor** — a page builder plugin that lets you design pages with drag-and-drop elements. Milano supports Elementor. See [Use Milano with Elementor](../page-builder/use-milano-with-elementor/).
+**Elementor** — a page builder plugin that lets you design pages with drag-and-drop elements. Milano supports Elementor.
 
 ## F
 
@@ -57,7 +57,7 @@ This glossary defines terms you will see throughout this documentation. Each ent
 
 ## P
 
-**Page builder** — a plugin that lets you design pages visually with drag-and-drop elements. Milano supports Elementor and WPBakery. See [Page Builder](../page-builder/).
+**Page builder** — a plugin that lets you design pages visually with drag-and-drop elements. Milano supports Elementor.
 
 **Permalink** — the URL format for your pages and posts. You set your permalink structure under **Settings → Permalinks**. We recommend the "Post name" structure so URLs read like `yoursite.com/product-name/`.
 
@@ -88,5 +88,3 @@ This glossary defines terms you will see throughout this documentation. Each ent
 **Widget** — a small block of content you can place in sidebars, footers, or other widget-ready areas. Examples include search boxes, recent posts lists, and custom HTML.
 
 **WooCommerce** — the most popular eCommerce plugin for WordPress. It adds product pages, a cart, checkout, and order management to your site. Milano is built to work with WooCommerce. See [Set up WooCommerce](../shop-layout/set-up-woocommerce/).
-
-**WPBakery** — a page builder plugin with a front-end and back-end editor. Milano supports WPBakery. See [Use Milano with WPBakery](../page-builder/use-milano-with-wpbakery/).

@@ -74,5 +74,4 @@ The template appears in your library and is ready to insert.
 
 ## Next steps
 
-- [Use Milano with Elementor](../page-builder/use-milano-with-elementor/) — learn about Milano's Elementor widgets and integration.
-- [Page Builder](../page-builder/) — explore other page builder options including WPBakery and the Block Editor.
+- [Buttons](../theme-settings/buttons/) — customize button styles across your store.

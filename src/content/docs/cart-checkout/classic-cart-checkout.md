@@ -77,7 +77,7 @@ Use these tokens inside the content:
 - `{return_policy}` — renders a link to your return policy page
 
 :::tip
-The trust content area also supports shortcodes, so you can embed a [Page Builder](../page-builder/) element if needed.
+The trust content area also supports shortcodes, so you can embed a shortcodes element if needed.
 :::
 
 ## Checkout page
