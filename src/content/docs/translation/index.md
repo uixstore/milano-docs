@@ -21,5 +21,5 @@ WPML costs money but includes WooCommerce support out of the box. Polylang has a
 
 ## Next steps
 
-- New to Milano? Start with [importing demo content](../import-demo/).
+- New to Milano? Start with [importing demo content](../getting-started/import-demo/).
 - Check [WPML compatibility notes](../plugin-compatibility/wpml/) and [Polylang compatibility notes](../plugin-compatibility/polylang/) for known issues.

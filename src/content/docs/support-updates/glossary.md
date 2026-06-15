@@ -23,7 +23,7 @@ This glossary defines terms you will see throughout this documentation. Each ent
 
 ## D
 
-**Demo content** — pre-built pages, products, and images that give your site a starting point. You import demo content through Milano's demo importer. See [Import a demo](../import-demo/import-a-demo/).
+**Demo content** — pre-built pages, products, and images that give your site a starting point. You import demo content through Milano's demo importer. See [Import a demo](../getting-started/import-demo/).
 
 **Dropdown menu** — a menu that appears when you hover over or click a menu item. Milano supports dropdown menus and mega menus. See [Mega menus](../navigation/mega-menus/).
 

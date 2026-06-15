@@ -55,4 +55,4 @@ If the Milano installer is unavailable, install the plugins yourself through the
 
 With WooCommerce and Elementor installed and active, import a demo or start building from scratch.
 
-Next: [Import a demo](../../import-demo/import-a-demo/) or jump to the [First-time setup checklist](../first-time-setup-checklist/).
+Next: [Import a demo](./import-demo/) or jump to the [First-time setup checklist](./first-time-setup-checklist/).

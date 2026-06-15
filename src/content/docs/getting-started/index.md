@@ -29,7 +29,7 @@ If you want more control, or the wizard isn't right for your setup, follow each 
 3. [Register your purchase code](./register-purchase-code/) — license, updates, and support.
 4. [Install the child theme](./install-the-child-theme/) — keep your customizations safe.
 5. [Install required plugins](./install-required-plugins/) — WooCommerce and Elementor.
-6. [Import a demo](../import-demo/import-a-demo/) — start with a pre-built storefront (optional).
+6. [Import a demo](./import-demo/) — start with a pre-built storefront (optional).
 
 ## I skipped the wizard
 

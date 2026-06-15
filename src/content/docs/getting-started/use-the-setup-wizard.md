@@ -68,7 +68,7 @@ The wizard's steps are documented in detail on their own pages. If you skipped t
 3. [Register your purchase code](../register-purchase-code/) — license, updates, and support.
 4. [Install the child theme](../install-the-child-theme/) — keep your customizations safe across updates.
 5. [Install required plugins](../install-required-plugins/) — WooCommerce and Elementor.
-6. [Import a demo](../../import-demo/import-a-demo/) — start with a pre-built storefront.
+6. [Import a demo](./import-demo/) — start with a pre-built storefront.
 
 :::note
 The wizard runs steps 3–6 for you. Steps 1 and 2 are always manual — you have to install the theme before the wizard can open.
