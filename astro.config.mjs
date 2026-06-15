@@ -51,10 +51,6 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'theme-modules' } }],
         },
         {
-          label: 'Advanced Features',
-          items: [{ autogenerate: { directory: 'advanced-features' } }],
-        },
-        {
           label: 'Performance & SEO',
           items: [{ autogenerate: { directory: 'performance-seo' } }],
         },
