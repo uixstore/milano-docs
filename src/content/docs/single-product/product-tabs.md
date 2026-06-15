@@ -28,11 +28,8 @@ Choose how tabs display on the page:
 | ------------------- | ------------------------------------------------------- |
 | **Horizontal Tabs** | Default tabbed layout with clickable labels at the top. |
 | **Accordion**       | Collapsible panels stacked vertically.                  |
-| **Vertical Tabs**   | Labels on the left, content on the right.               |
 
 <!-- markdownlint-enable MD060 -->
-
-![Product page showing horizontal tabs with Description, Additional Information, and Reviews labels](../../../assets/shared/placeholder.svg)
 
 ## Accordion initial state
 

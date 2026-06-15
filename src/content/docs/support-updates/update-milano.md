@@ -28,16 +28,11 @@ Milano can check for updates and install them from your WordPress dashboard once
    :::
 
 2. Go to **Dashboard → Updates** in your WordPress admin.
+   3. If a Milano update is available, you will see it listed under the Themes section. Click **Update Now** next to Milano.
 
-   ![WordPress Updates page showing an available update for the Milano theme](../../../assets/shared/placeholder.svg)
+3. Wait for WordPress to download and install the update. The page will show a success message when it finishes.
 
-   _WordPress Dashboard → Updates screen with the Milano theme update notification._
-
-3. If a Milano update is available, you will see it listed under the Themes section. Click **Update Now** next to Milano.
-
-4. Wait for WordPress to download and install the update. The page will show a success message when it finishes.
-
-5. Visit your site and check that everything looks correct. Clear your cache if you use a caching plugin.
+4. Visit your site and check that everything looks correct. Clear your cache if you use a caching plugin.
 
 :::tip
 Turn on automatic updates for Milano if you want WordPress to install minor updates (security and bug fixes) without asking you. Go to **Dashboard → Updates** and click **Enable auto-updates** next to Milano.
@@ -58,16 +53,11 @@ Use this method if automatic updates are not working or if you prefer to control
 5. Go to **Appearance → Themes → Add New → Upload Theme**.
 
 6. Click **Choose File**, select the new Milano zip file, then click **Install Now**.
+   7. WordPress will tell you that the theme is already installed. This is expected. **Do not click "Replace current with uploaded" yet** — read the next step first.
 
-   ![Theme upload form with the new Milano zip file selected](../../../assets/shared/placeholder.svg)
+7. If you have made any direct changes to Milano's files (not recommended), those changes will be lost. If you only use the Customizer and a child theme, you can safely click **Replace current with uploaded**.
 
-   _Add Themes → Upload Theme screen with the Milano zip file selected and the "Install Now" button highlighted._
-
-7. WordPress will tell you that the theme is already installed. This is expected. **Do not click "Replace current with uploaded" yet** — read the next step first.
-
-8. If you have made any direct changes to Milano's files (not recommended), those changes will be lost. If you only use the Customizer and a child theme, you can safely click **Replace current with uploaded**.
-
-9. After the update finishes, visit your site and check that everything works. Clear your cache if needed.
+8. After the update finishes, visit your site and check that everything works. Clear your cache if needed.
 
 ## Child theme compatibility
 

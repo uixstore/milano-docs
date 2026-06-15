@@ -20,8 +20,6 @@ Configure the cart icon under **Appearance → Customize → Header → Cart Ico
 
 Configure the drawer under **Appearance → Customize → Store → Cart Drawer**.
 
-![Cart drawer customizer section with toggle settings for edit icon, recommendations, note, shipping, coupon, and auto-open](../../../assets/shared/placeholder.svg)
-
 ### General settings
 
 | Setting                      | Description                                                                       | Default |
@@ -58,8 +56,6 @@ The drawer footer has three toggle buttons that open inline panels: order note, 
 | **Enable coupon field**        | Customers can enter a discount coupon code                                                | On      |
 
 ## What the drawer looks like
-
-![Cart drawer open with product list, quantity controls, and footer action buttons](../../../assets/shared/placeholder.svg)
 
 The drawer has three sections:
 

@@ -8,7 +8,7 @@ draft: false
 
 Control what appears in the product summary — the area next to the gallery that shows the title, price, add-to-cart button, and supporting information.
 
-All settings live under **Appearance → Customize → Product Page → Summary**.
+All settings live under **Appearance → Customize → Product Page → Product Summary**.
 
 ## Summary component visibility
 
@@ -71,11 +71,9 @@ Turn each on or off in the **Meta elements** setting.
 
 Turn on the share button to let customers share the product on social media.
 
-1. Turn on the **Share button** toggle.
+Turn on the **Share button** toggle.
 
 A share icon appears in the product actions row. Clicking it opens a modal with links to Facebook, X (Twitter), and Pinterest.
-
-![Product page share modal showing Facebook, X, and Pinterest options](../../../assets/shared/placeholder.svg)
 
 :::tip
 Developers can add or remove networks via the `milano/product_share/networks` filter.
@@ -151,8 +149,6 @@ Show a countdown timer on products that are on sale. Useful for creating urgency
 | **Loop timer**   | Auto-generate a countdown when no sale end date is set. |
 | **Duration**     | Length of the generated countdown when looping is on.   |
 
-![Product page with a sale countdown timer showing hours, minutes, and seconds](../../../assets/shared/placeholder.svg)
-
 :::tip
 Turn on **Loop timer** for stores that run ongoing sales. The timer resets for each visitor, creating urgency without requiring a real end date.
 :::
@@ -190,8 +186,6 @@ Keep the product name, price, and add-to-cart button visible as customers scroll
 | **Sticky summary**     | Pin the summary section on scroll. On by default.   |
 | **Sticky add to cart** | Show a sticky add-to-cart bar at the screen bottom. |
 | **Content spacing**    | Gap between the gallery and summary, 0–100 px.      |
-
-![Product page with the sticky summary pinning the price and add-to-cart button while the gallery scrolls](../../../assets/shared/placeholder.svg)
 
 ### Sticky summary vs. sticky add to cart
 

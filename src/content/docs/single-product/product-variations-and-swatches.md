@@ -33,3 +33,5 @@ The integration:
 
 - Registers the swatches feature in the theme.
 - Maps term meta so swatches render on both product cards and single product pages.
+
+For detailed setup instructions — including how to configure swatch types (color, image, label), assign them to attributes, and troubleshoot common issues — refer to the [WCBoost Variation Swatches documentation](https://wcboost.com/docs-category/wcboost-variation-swatches/).

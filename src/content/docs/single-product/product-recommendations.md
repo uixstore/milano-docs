@@ -32,13 +32,9 @@ Related products, up-sells, and recently viewed products each render in their ow
 
 A "You may also like..." carousel appears below the cart table. The engine pulls from cross-sells, up-sells, best-sellers, and recently viewed products.
 
-![Cart page with "You may also like..." recommendations carousel below the cart table](../../../assets/shared/placeholder.svg)
-
 ### Cart drawer
 
 The same carousel appears inside the slide-in cart drawer. It updates live as customers add or remove items.
-
-![Cart drawer with recommendations section showing product thumbnails and prices](../../../assets/shared/placeholder.svg)
 
 ## How the engine works
 
@@ -68,8 +64,6 @@ Cross-sells and up-sells are configured per product in WooCommerce.
 2. Open the **Product data** panel.
 3. Click the **Linked Products** tab.
 4. Add products to **Cross-sells** or **Up-sells**.
-
-![WooCommerce product data panel with Linked Products tab showing cross-sells and up-sells fields](../../../assets/shared/placeholder.svg)
 
 :::tip
 Cross-sells appear on the cart page and cart drawer. Up-sells appear on single product pages. Add 2–4 products to each field for the best results.

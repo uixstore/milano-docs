@@ -20,11 +20,7 @@ By default, reviews appear inside the product tabs below the product summary. Tu
 1. Open **Appearance → Customize → Product Page → Product Reviews**.
 2. Turn on the **Standalone reviews** toggle.
 
-![Customizer panel showing the Product Reviews section with standalone and rating summary toggles](../../../assets/shared/placeholder.svg)
-
 Reviews now render in their own section after the product content — outside the tabbed layout. The Reviews tab is removed from the tabs automatically.
-
-![Single product page with standalone reviews section below the product content](../../../assets/shared/placeholder.svg)
 
 ## Turn on the rating summary
 
@@ -32,8 +28,6 @@ The rating summary adds an overall score, a star histogram, and a "Write a revie
 
 1. Open **Appearance → Customize → Product Page → Product Reviews**.
 2. Turn on the **Rating summary** toggle.
-
-![Single product page with rating summary showing overall score, star histogram, and Write a review button](../../../assets/shared/placeholder.svg)
 
 ### What the rating summary shows
 

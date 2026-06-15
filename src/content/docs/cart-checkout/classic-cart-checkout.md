@@ -37,8 +37,6 @@ Two things about these pages:
 
 Configure the cart page under **Appearance → Customize → Store → Cart Page**.
 
-![Cart page customizer section with auto-update, recommendations, trust badges, and trust content settings](../../../assets/shared/placeholder.svg)
-
 ### Auto-update cart
 
 When the customer changes a quantity, the cart updates automatically. No **Update Cart** button needed.
@@ -92,8 +90,6 @@ Milano adds a few refinements to the classic checkout page. You don't need to co
 ## Urgency banner
 
 The urgency banner shows a countdown timer on the cart page, checkout page, or cart drawer. It creates a sense of urgency to encourage checkout.
-
-![Urgency banner with countdown timer on the checkout page](../../../assets/shared/placeholder.svg)
 
 Configure it under **Appearance → Customize → Store → Urgency Banner**.
 
