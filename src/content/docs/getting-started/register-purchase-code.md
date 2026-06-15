@@ -50,9 +50,3 @@ You will see a confirmation message when the license is active. Milano can now c
 
 **Problem:** "Could not connect to the license server."
 **Fix:** This is usually a temporary server issue. Wait a minute and try again. If it keeps failing, check that your server can reach external APIs — some hosts block outgoing connections by default.
-
-## Next steps
-
-With your license active, install the required plugins so Milano works as intended.
-
-Next: [Install required plugins](../install-required-plugins/).

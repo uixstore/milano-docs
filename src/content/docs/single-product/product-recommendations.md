@@ -74,8 +74,3 @@ Cross-sells and up-sells are configured per product in WooCommerce.
 :::tip
 Cross-sells appear on the cart page and cart drawer. Up-sells appear on single product pages. Add 2–4 products to each field for the best results.
 :::
-
-## Next steps
-
-- [Product summary](./product-summary/) — configure what appears in the product summary area.
-- [Recently viewed](../shop-layout/recently-viewed/) — show customers the products they recently browsed.

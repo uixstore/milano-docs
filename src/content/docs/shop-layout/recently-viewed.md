@@ -42,8 +42,3 @@ Customers can then visit this page to see all the products they recently browsed
 :::tip
 Add a link to your Recently Viewed page in your footer or navigation menu so customers can find it easily.
 :::
-
-## Next steps
-
-- [Product recommendations](../../single-product/product-recommendations/) — configure related and upsell product sections.
-- [Shop page layout](../shop-page-layout/) — set up your main shop page layout.

@@ -20,8 +20,3 @@ The **Site Title** and **Tagline** appear when no logo is set, and are used by s
 ## Site icon
 
 The **Site Icon** (also called a favicon) is the small icon that appears in browser tabs. Upload a square image, at least 512 × 512 pixels.
-
-## Next steps
-
-- [Change your brand colors](../colors/)
-- [Set up your fonts](../typography/)

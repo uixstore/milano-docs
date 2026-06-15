@@ -98,7 +98,3 @@ The module renders three swatch types depending on the attribute data:
 :::note
 Product Card Swatches requires the WCBoost Variation Swatches plugin or variation images set on each product variation in WooCommerce.
 :::
-
-## Next steps
-
-- [Product badges](../product-badges/) — show sale, new, pre-order, and sold-out badges on cards.

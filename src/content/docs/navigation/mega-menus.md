@@ -119,8 +119,3 @@ The item returns to a standard dropdown. Any widgets you added to its widget are
 
 **Problem:** I don't see a widget area for my mega menu item.
 **Fix:** Make sure the **Use as mega menu** checkbox is checked and you have clicked **Save menu**. The widget area appears after you save.
-
-## Next steps
-
-- [Create a menu](./create-a-menu/) to build the structure your mega menus depend on.
-- [Header and footer builder](../header-footer-builder/) to adjust menu placement and surrounding header elements.

@@ -59,8 +59,3 @@ Turn on the lightbox to open a full-screen image viewer when customers click the
 | **Aspect ratio**  | Natural, 1:1, 3:4, 4:3, 2:3 | Forces images to a consistent ratio. |
 
 <!-- markdownlint-enable MD060 -->
-
-## Next steps
-
-- [Product tabs](./product-tabs/) — configure how product information is organized below the gallery.
-- [Product layout](./) — set up sticky summary and page header.

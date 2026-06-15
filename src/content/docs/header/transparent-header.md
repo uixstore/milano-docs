@@ -33,8 +33,3 @@ When transparency is on, the text and link colors switch to a separate set so th
 :::tip
 The transparent header works best on pages with a hero image or video at the top. On pages without one, you may want to disable transparency and use the standard header colors.
 :::
-
-## Next steps
-
-- [Sticky header](../sticky-header/)
-- [Mobile header](../mobile-header/)

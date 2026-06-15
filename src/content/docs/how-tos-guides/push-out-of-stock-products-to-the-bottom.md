@@ -33,8 +33,3 @@ The sorting applies per page. If page one has 12 in-stock products and 3 out-of-
 
 **Problem:** All products disappear from the shop page.
 **Fix:** Check that you have products with the **Published** status. Draft or private products do not appear on the shop page regardless of stock status.
-
-## Next steps
-
-- [Shop page layout](../shop-layout/shop-page-layout/) — control columns, filters, and product count per page.
-- [Product layout](../single-product/) — configure sticky summary and page header.

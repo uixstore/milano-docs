@@ -55,8 +55,3 @@ The blog header appears at the top of the archive page.
 3. Set the background image, overlay color and opacity, height, and text colors.
 
 The preview updates as you make changes.
-
-## Next steps
-
-- [Blog overview](./) — learn about categories, tags, and managing posts in WordPress.
-- [Customize single post settings](./single-post-settings/).

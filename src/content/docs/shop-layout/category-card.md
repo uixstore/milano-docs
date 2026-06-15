@@ -38,8 +38,3 @@ Control the aspect ratio of category thumbnails:
 :::tip
 Match the category card image ratio to your product card ratio for a consistent look across your store.
 :::
-
-## Next steps
-
-- [Top categories](../top-categories/) — display the category carousel above the product grid.
-- [Product card](../product-card/) — customize how product cards look in the grid.

@@ -172,8 +172,3 @@ These settings work well with Milano's header and footer builder.
 **Problem:** Translated products lose their connection to the original.
 
 **Fix:** When creating a translation, make sure you use the plus icon from the original product. This links the translation to the source. If you create a new product manually, Polylang does not know it is a translation.
-
-## Next steps
-
-- Compare with the [WPML guide](./wpml-guide/) if you need a paid alternative with more built-in features.
-- Need a single-language translation? Try [Loco Translate](./translate-milano-with-loco-translate/) instead.

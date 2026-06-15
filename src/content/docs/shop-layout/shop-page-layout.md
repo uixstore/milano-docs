@@ -95,7 +95,3 @@ Choose how each filter group looks:
 - **Active filter chips** — removable tags showing current filters.
 - **Searchable terms** — customers can search within filter options.
 - **Collapsible sections** — filter groups collapse to save space.
-
-## Next steps
-
-- [Product card](../product-card/) — customize how individual products look in the grid.

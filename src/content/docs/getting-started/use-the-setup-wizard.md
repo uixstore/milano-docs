@@ -84,7 +84,3 @@ The wizard runs steps 3–6 for you. Steps 1 and 2 are always manual — you hav
 
 **Problem:** I want to change a step I already completed.
 **Fix:** Re-run the wizard. It starts from the Welcome step regardless of completion state, so you can redo any step.
-
-## Next steps
-
-If the wizard finished successfully, your store is ready to customize. If you want to redo a step or set things up by hand, the pages above cover every step in detail.

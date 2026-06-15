@@ -87,8 +87,3 @@ Click **Templates** at the bottom right of the footer builder to open the templa
 - **Copyright** — copyright text with year and site title placeholders
 - **Social Links** — links to your social media profiles with icons
 - **Custom HTML** — your own HTML content
-
-## Next steps
-
-- [Footer widgets](./footer-widgets/)
-- [Footer settings](../theme-settings/footer/)

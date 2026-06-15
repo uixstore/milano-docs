@@ -31,8 +31,3 @@ When the header becomes sticky, you can change its colors independently from the
 | ---------- | -------------------------------------------------------------------------------- |
 | **Normal** | Background, text, link, and accent colors for the default state.                 |
 | **Sticky** | Colors that apply once the header sticks. Often adds a subtle background shadow. |
-
-## Next steps
-
-- [Transparent header](../transparent-header/)
-- [Mobile header](../mobile-header/)

@@ -199,8 +199,3 @@ Keep the product name, price, and add-to-cart button visible as customers scroll
 - **Sticky add to cart** shows a minimal bar at the bottom of the screen with the product thumbnail, price, and a buy button. It appears only when the main add-to-cart button scrolls out of view.
 
 You can turn on both, one, or neither.
-
-## Next steps
-
-- [Product tabs](./product-tabs/) — organize product information in tabs or accordion.
-- [Product reviews](./product-reviews/) — show a standalone rating summary and review section.

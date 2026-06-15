@@ -75,8 +75,3 @@ Each entry lists the version number, release date, and changes grouped by type:
 - WooCommerce integration with custom product page and shop layouts.
 - Elementor and WPBakery page builder support.
 - Customizer settings for colors, typography, layout, buttons, and blog.
-
-## Next steps
-
-- [Update Milano](./update-milano/) — install the latest version.
-- [Support policy](./support-policy/) — report a bug if something doesn't work after updating.

@@ -44,8 +44,3 @@ Set custom colors for the header area:
 
 - **Background color** — solid color behind the image (or instead of it).
 - **Text color** — color for the title and breadcrumb text.
-
-## Next steps
-
-- [Shop page layout](../shop-page-layout/) — configure grid columns, sidebar, and pagination.
-- [Top categories](../top-categories/) — display a category carousel above the product grid.

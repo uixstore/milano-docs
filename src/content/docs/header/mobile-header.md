@@ -49,8 +49,3 @@ The Mobile Menu panel also includes settings for the hamburger menu's background
 ## Mobile logo
 
 The mobile header can use a separate logo image, often a cropped or smaller version. If you don't set a mobile logo, the desktop logo is used instead. You can upload a mobile logo in the **Logo** element settings. See [Logo settings](../logo/) for more.
-
-## Next steps
-
-- [Sticky header](../sticky-header/)
-- [Transparent header](../transparent-header/)

@@ -48,8 +48,3 @@ The carousel uses a slider component. Customers can scroll horizontally through 
 :::tip
 Keep the category limit between 6 and 12 for the best visual balance. Too many categories can overwhelm the page.
 :::
-
-## Next steps
-
-- [Category card](../category-card/) — control how individual category thumbnails look.
-- [Shop page layout](../shop-page-layout/) — configure the product grid below the categories.

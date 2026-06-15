@@ -41,8 +41,3 @@ When using accordion mode, choose how panels open on page load:
 - **Open first** — the first panel is open, others are closed.
 - **Open all** — all panels are expanded.
 - **Close all** — all panels are collapsed.
-
-## Next steps
-
-- [Product gallery](./product-gallery/) — configure image layout and zoom.
-- [Product reviews](./product-reviews/) — show a standalone rating summary outside the tabs.

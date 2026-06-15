@@ -106,9 +106,3 @@ This is why you saved to the custom location. If you saved to the author locatio
 **Problem:** The language does not show up in the list.
 
 **Fix:** WordPress may not have the language pack installed. Go to **Settings → General** and check that your site language is set correctly. WordPress downloads language packs automatically when you change this setting.
-
-## Next steps
-
-- Running a multilingual store? Switch to [WPML](./wpml-guide/) or [Polylang](./polylang-guide/).
-
-- Having trouble? See the [Troubleshooting](../support-updates/troubleshooting/) page.

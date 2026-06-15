@@ -47,9 +47,3 @@ From a fresh WordPress install to a working Milano site takes about 30 minutes:
 - Register your purchase code — 2 minutes.
 - Install required plugins — 5 minutes.
 - Import a demo or set up from scratch — 15–20 minutes.
-
-## Next steps
-
-Once you have everything listed above, you are ready to install the theme.
-
-Next: [Install Milano](../install-milano/).

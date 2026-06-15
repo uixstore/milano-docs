@@ -42,8 +42,3 @@ If we need more information from you, we will ask. The faster you respond, the f
 :::caution
 You must register your purchase code before you can receive support. Go to **Milano → Dashboard → License** and enter your code if you haven't already. See [Register your purchase code](../getting-started/register-purchase-code/).
 :::
-
-## Next steps
-
-- [Support policy](./support-policy/) — what support covers and response times.
-- [Update Milano](./update-milano/) — keep your theme up to date to avoid known issues.

@@ -77,8 +77,3 @@ The bottom bar hides automatically on screens wider than the mobile breakpoint. 
 
 **Problem:** The bottom bar covers content at the bottom of the page.
 **Fix:** Milano adds padding to pages automatically when the bottom bar is active. If a third-party plugin adds its own bottom bar, the padding can conflict. Try disabling the plugin's bar.
-
-## Next steps
-
-- [Create a menu](./create-a-menu/) to build the main navigation.
-- [Mobile header](../header/mobile-header/) to customize the top bar on phones.

@@ -23,8 +23,3 @@ Open **Appearance → Customize → Header → Top Bar** to configure it.
 The top bar has its own visibility toggle in the Customizer. When turned off, the main header starts at the very top of the page.
 
 ![Customizer panel showing the Top Bar settings with announcement text and social links](../../../assets/shared/placeholder.svg)
-
-## Next steps
-
-- [Header builder](../header-builder/)
-- [Logo](../logo/)

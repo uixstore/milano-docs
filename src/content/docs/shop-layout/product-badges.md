@@ -63,8 +63,3 @@ When multiple conditions apply to a product, Milano shows only one badge. The pr
 4. New
 
 For example, a product that is both on sale and sold out shows the Sold Out badge.
-
-## Next steps
-
-- [Product card](../product-card/) — control what elements appear on product cards.
-- [Shop page layout](../shop-page-layout/) — configure grid columns, sidebar, and pagination.

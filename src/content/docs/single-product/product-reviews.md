@@ -80,8 +80,3 @@ No reviews have been submitted yet. The summary displays empty stars until the f
 **Review form is hidden.**
 
 When the rating summary is enabled, the review form is hidden by default. Customers click **Write a review** to reveal it.
-
-## Next steps
-
-- [Product gallery](./product-gallery/) — configure image layout, thumbnails, zoom, and lightbox.
-- [Quick view](../shop-layout/quick-view/) — let customers preview products in a popup.

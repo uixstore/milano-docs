@@ -87,9 +87,3 @@ Select the items you want and click **Import Selected**.
 
 **Problem:** The imported demo looks different from the preview.
 **Fix:** Make sure the Customizer settings were imported. Go to **Milano → Demos** and run a Custom Import with only "Customizer settings" selected.
-
-## Next steps
-
-With a demo imported, customize it to match your brand. Replace your logo and update the site title, then move on to colors, typography, and menus.
-
-Next: read the [First-time setup checklist](./first-time-setup-checklist/) for a full list of what to customize after import.

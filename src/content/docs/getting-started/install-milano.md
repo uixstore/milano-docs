@@ -86,9 +86,3 @@ FTP uploads take longer than the WordPress admin method, but they bypass the PHP
 
 **Problem:** "The package could not be installed. The theme is missing the style.css stylesheet."
 **Fix:** You may have uploaded the wrong file. Make sure you downloaded the "Installable WordPress theme only" zip from ThemeForest, not the "All files & documentation" package. The correct zip contains `style.css` at its root.
-
-## Next steps
-
-Now that Milano is installed and active, register your purchase code to unlock updates and support.
-
-Next: [Register your purchase code](../register-purchase-code/).

@@ -112,8 +112,3 @@ Removing an item from the menu does not delete the page itself.
 
 **Problem:** I added a product category but the panel is missing.
 **Fix:** Install and activate WooCommerce. The panel appears automatically after activation.
-
-## Next steps
-
-- [Set up mega menus](./mega-menus/) to show rich content in your dropdowns.
-- [Header and footer builder](../header-footer-builder/) to customize where menus appear and what surrounds them.

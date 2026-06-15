@@ -162,8 +162,3 @@ These settings work well with Milano's header and footer builder.
 **Problem:** Product translations are missing pricing or stock status.
 
 **Fix:** WooCommerce Multilingual syncs product data. Go to **WooCommerce → WooCommerce Multilingual** and check the sync status. Run a manual sync if needed.
-
-## Next steps
-
-- Compare with the [Polylang guide](./polylang-guide/) if you want a free alternative.
-- Need help translating without a multilingual plugin? Try [Loco Translate](./translate-milano-with-loco-translate/).

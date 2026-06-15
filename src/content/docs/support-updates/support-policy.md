@@ -54,10 +54,3 @@ You must register your purchase code in Milano before you can receive support. G
 ## Extending support
 
 You can extend support for an additional six or twelve months at any time. Go to your ThemeForest **Downloads** page, find Milano, and click **Renew Support**. The price is listed on the Milano item page.
-
-## Next steps
-
-Keep Milano up to date to avoid known issues and get the latest features.
-
-- [Update Milano](./update-milano/) — install the latest version.
-- [Troubleshooting](./troubleshooting/) — find solutions to frequent problems before contacting support.

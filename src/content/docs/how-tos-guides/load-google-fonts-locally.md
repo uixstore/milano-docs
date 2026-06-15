@@ -42,8 +42,3 @@ Milano re-downloads all active font files with the latest versions.
 
 **Problem:** Font files use too much disk space.
 **Fix:** Each font family uses about 200–500 KB depending on how many weights you use. If you selected many font families, reduce your typography selections under **Milano → Theme Settings → Typography**.
-
-## Next steps
-
-- [Upload custom fonts](./upload-custom-fonts/) — use your own font files instead of Google Fonts.
-- [Typography settings](../theme-settings/typography/) — choose font families, sizes, and weights for your store.

@@ -50,9 +50,3 @@ If the Milano installer is unavailable, install the plugins yourself through the
 1. Go to **Plugins → Add New**.
 2. Search for "WooCommerce". Click **Install Now**, then **Activate**.
 3. Search for "Elementor". Click **Install Now**, then **Activate**.
-
-## Next steps
-
-With WooCommerce and Elementor installed and active, import a demo or start building from scratch.
-
-Next: [Import a demo](./import-demo/) or jump to the [First-time setup checklist](./first-time-setup-checklist/).

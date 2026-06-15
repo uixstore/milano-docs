@@ -47,8 +47,3 @@ You can control registration from the same settings page:
 
 **Problem:** Customers cannot log in after registering.
 **Fix:** Check that WordPress is sending the account creation email. Go to **WooCommerce → Settings → Emails** and confirm the "New account" email is enabled. Some hosts block outgoing emails — use an SMTP plugin if needed.
-
-## Next steps
-
-- [Cart and checkout](../cart-checkout/cart-and-checkout/) — customize the checkout experience for registered customers.
-- [Mini cart](../cart-checkout/mini-cart/) — show a cart preview to encourage account creation.

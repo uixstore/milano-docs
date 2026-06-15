@@ -41,8 +41,3 @@ Turn on **Show share buttons** to display social share icons below the post cont
 The author bio shows the post author's name and description.
 
 Turn on **Show author bio** to display the author box below the post content. Edit the bio from the author's WordPress profile page (**Users → Profile**).
-
-## Next steps
-
-- [Set up the blog archive layout](../blog-layouts/).
-- [Blog overview](../) — learn about categories, tags, and managing posts in WordPress.

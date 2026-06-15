@@ -60,9 +60,3 @@ After activation, go to **Appearance → Themes**. You should see two Milano the
 ![Themes screen with Milano Child marked as active](../../../assets/shared/placeholder.svg)
 
 _Themes screen with Milano Child marked as the active theme._
-
-## Next steps
-
-With the child theme active, install the plugins Milano needs to run.
-
-Next: [Install required plugins](../install-required-plugins/).

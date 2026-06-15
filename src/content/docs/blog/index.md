@@ -55,8 +55,3 @@ Milano adds a **Blog** panel to the Customizer where you control:
 - **Blog Archive** — layout (grid/list), sidebar position, columns, post card thumbnails, excerpt length, and pagination style.
 - **Single Post** — featured image, prev/next navigation, related posts, share buttons, and author bio.
 - **Blog Header** — background image, overlay, height, and text colors.
-
-## Next steps
-
-- [Choose a blog layout](./blog-layouts/) — grid or list, plus sidebar and pagination settings.
-- [Customize single post settings](./single-post-settings/) — control featured images, related posts, and share buttons.

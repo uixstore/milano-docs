@@ -68,8 +68,3 @@ The Mailchimp for WP plugin inherits your theme's form styles. If the form looks
 
 **Problem:** The form shows an error when submitting.
 **Fix:** Make sure your Mailchimp audience is set up correctly and the form fields match the audience fields. Check that your site can reach Mailchimp's API (some firewalls block external API calls).
-
-## Next steps
-
-- [Custom CSS](../theme-settings/custom-css/) — style your signup form to match Milano.
-- [Footer builder](../footer/footer-builder/) — place your signup form in the footer for maximum visibility.

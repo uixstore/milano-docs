@@ -89,10 +89,3 @@ If you are not sure whether you use a child theme, go to **Appearance → Themes
 
 **Problem:** "The update says 'Destination folder already exists'."
 **Fix:** You are using the manual method and did not go through the WordPress updater. Delete the existing `milano/` folder via FTP first, then upload the new version. Or use [Method A](#method-a--automatic-update-recommended) instead.
-
-## Next steps
-
-See what changed in the latest release.
-
-- [Changelog](./changelog/) — review the changes in each version.
-- [Support policy](./support-policy/) — find out what support covers if something goes wrong after updating.
