@@ -41,4 +41,4 @@ Once Milano is installed and activated, you can:
 
 - [Customize your site](../theme-settings/) — change colors, typography, layouts, and more.
 - [Header builder](../header/header-builder/) — design a custom header with the drag-and-drop builder.
-- [Set up your shop](../shop-layout/) — configure product pages, cart, and checkout.
+- [Set up your shop](../shop/) — configure product pages, cart, and checkout.

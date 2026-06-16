@@ -87,4 +87,4 @@ This glossary defines terms you will see throughout this documentation. Each ent
 
 **Widget** — a small block of content you can place in sidebars, footers, or other widget-ready areas. Examples include search boxes, recent posts lists, and custom HTML.
 
-**WooCommerce** — the most popular eCommerce plugin for WordPress. It adds product pages, a cart, checkout, and order management to your site. Milano is built to work with WooCommerce. See [Set up WooCommerce](../shop-layout/set-up-woocommerce/).
+**WooCommerce** — the most popular eCommerce plugin for WordPress. It adds product pages, a cart, checkout, and order management to your site. Milano is built to work with WooCommerce. See [Set up WooCommerce](../shop/set-up-woocommerce/).

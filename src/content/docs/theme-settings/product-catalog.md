@@ -15,4 +15,4 @@ The **Product Catalog** panel in the Customizer controls how your product listin
 - **Product Card** — layout style, thumbnail hover effect, rating, wishlist, compare, quick view, swatches
 - **Category Card** — layout style, image ratio, product count visibility
 
-For detailed setup instructions, see [Shop layout](../shop-layout/).
+For detailed setup instructions, see [Shop layout](../shop/).

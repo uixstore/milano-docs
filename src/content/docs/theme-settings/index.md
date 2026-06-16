@@ -31,7 +31,7 @@ The **Blog** panel controls blog archive layout, post cards, and single post set
 
 ## [Product Catalog](./product-catalog/)
 
-The **Product Catalog** panel controls shop layout, product cards, category cards, and top categories. See [Shop layout](../shop-layout/) for detailed setup.
+The **Product Catalog** panel controls shop layout, product cards, category cards, and top categories. See [Shop layout](../shop/) for detailed setup.
 
 ## [Product Page](./product-page/)
 

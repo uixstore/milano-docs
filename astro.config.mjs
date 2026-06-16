@@ -33,8 +33,8 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'navigation' } }],
         },
         {
-          label: 'Shop Layout',
-          items: [{ autogenerate: { directory: 'shop-layout' } }],
+          label: 'Shop',
+          items: [{ autogenerate: { directory: 'shop' } }],
         },
         {
           label: 'Single Product',
