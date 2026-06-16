@@ -12,6 +12,10 @@
 #
 set -euo pipefail
 
+# Load local, gitignored config if present (SSH_TARGET, SSH_PORT, DEPLOY_PATH).
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+if [[ -f "$SCRIPT_DIR/.env" ]]; then set -a; source "$SCRIPT_DIR/.env"; set +a; fi
+
 # --- Configuration ----------------------------------------------------------
 # SSH target: either "user@host" or a Host alias from your ~/.ssh/config.
 SSH_TARGET="${SSH_TARGET:-CHANGE_ME@docs.uix.store}"
@@ -59,7 +63,7 @@ echo "==> Deploying $DIST_DIR -> $SSH_TARGET:$DEPLOY_PATH (port $SSH_PORT)"
 # --delete removes server files that no longer exist locally (renamed/removed
 # pages, old hashed assets). This is why a manual SFTP merge leaves stale files.
 rsync -avz --delete \
-  "${RSYNC_EXTRA[@]}" \
+  ${RSYNC_EXTRA[@]+"${RSYNC_EXTRA[@]}"} \
   -e "ssh -p $SSH_PORT" \
   "$DIST_DIR" \
   "$SSH_TARGET:$DEPLOY_PATH"
