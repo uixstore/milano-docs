@@ -25,19 +25,19 @@ If you are not sure about your PHP version, most modern hosts run PHP 8.0 or hig
 
 Go to your ThemeForest **Downloads** page and click **Download** next to Milano. You will see two options:
 
-| File                             | What it contains                                                   |
-| -------------------------------- | ------------------------------------------------------------------ |
-| Installable WordPress theme only | The Milano theme zip — this is what you upload to WordPress.       |
-| All files and documentation      | Everything above, plus the child theme, demo content, and license. |
+| File                             | What it contains                                                      |
+| -------------------------------- | --------------------------------------------------------------------- |
+| Installable WordPress theme only | The Milano theme zip — this is what you upload to WordPress.          |
+| All files and documentation      | Everything above, plus the child theme, bundled plugins, and license. |
 
-For a fresh install, download **Installable WordPress theme only**. If you also want the child theme or demo content files, grab **All files and documentation**.
+For a fresh install, download **Installable WordPress theme only**. If you also want the child theme or bundled plugins, grab **All files and documentation**.
 
 When you download the full package and extract it, you will find:
 
 - `milano.zip` — the main theme file.
 - `milano-child.zip` — the child theme (optional; see [Install the child theme](../install-the-child-theme/)).
+- `plugins/` — contains bundled plugins that extend Milano.
 - License file — your purchase proof. Keep this safe.
-- Demo content files — used by Milano's demo importer.
 
 ## Estimated time
 
