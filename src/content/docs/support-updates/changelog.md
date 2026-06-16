@@ -17,6 +17,12 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.0.1
+
+**Fixed**
+
+- Fix the issue with plugin installation.
+
 ### 1.0.0
 
 **Added**
