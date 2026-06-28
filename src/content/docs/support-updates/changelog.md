@@ -17,6 +17,25 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.0.2
+
+**Added**
+
+- Add product search by SKU.
+- Add a column layout option for header rows.
+
+**Changed**
+
+- Improve the search field layout and styling.
+- Bundle small custom-element scripts into a single file for better performance.
+- Tweak the Slideshow widget with more controls for button style.
+- Update the Banner Image Carousel widget with more controls for single item.
+
+**Fixed**
+
+- Fix Category Carousel widget with the error with the category does not exist.
+- Fix error message with Custom CSS module when Elementor Pro installed.
+
 ### 1.0.1
 
 **Fixed**
