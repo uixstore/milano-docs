@@ -17,6 +17,31 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.1.0
+
+**Added**
+
+- Introduce a new demo: [**Organic**](https://organic.wpmilano.com/).
+- Add Live Sales Notification module.
+- Add menu color settings to Customizer.
+- Add Brands Directory Elementor widget with A-Z filter and image support.
+- Add Lookbook Slideshow Elementor widget with card positioning, transparent background, and hotspot controls.
+- Add Product Single (Featured Product) widget for Elementor with countdown timer and styling controls.
+- Add controls for category, excerpt, author, and date display in Blog Posts widget.
+- Add typography control for product title in shoppable video carousel.
+- Add option to make entire slide clickable in Slideshow widget.
+- Add placement option for menu items in Mega Menu.
+
+**Changed**
+
+- Enhance quantity button styling.
+- Enhance Testimonial Carousel with modern design, improved avatar positioning, typography controls, and responsive spacing.
+
+**Fixed**
+
+- Fix product navigation link colors.
+- Fix mega menu positioning.
+
 ### 1.0.2
 
 **Added**
