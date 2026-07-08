@@ -29,6 +29,7 @@ Milano comes with modules you can turn on or off from the Theme Dashboard. Some 
 - [Model Information](./model-information/) — Add model profiles and measurements to products.
 - [Catalog Mode](./catalog-mode/) — Turn your store into a product showcase.
 - [Complementary Products](./complementary-products/) — Show hand-picked "pairs well with" items.
+- [Live Sales Notification](./live-sales-notification/) — Show fake purchase popups to build social proof.
 
 ### Elementor modules
 
