@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightImageZoom from 'starlight-image-zoom';
 
 export default defineConfig({
   site: 'https://docs.uix.store',
@@ -11,6 +12,7 @@ export default defineConfig({
       description: 'User documentation for the Milano WordPress theme by UIX Themes.',
       customCss: ['./src/styles/custom.css'],
       lastUpdated: true,
+      plugins: [starlightImageZoom()],
       sidebar: [
         {
           label: 'Getting Started',
