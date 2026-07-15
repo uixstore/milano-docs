@@ -17,6 +17,30 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.2.0
+
+**Added**
+
+- Introduce a new demo: [**Foot Wear**](https://footwear.wpmilano.com/).
+- Add custom font library support and enhance typography controls in the Customizer.
+- Add header v4 preset and improve builder preset settings capture/apply.
+- Add option to toggle AJAX add to cart on product pages.
+- Add gallery width setting for the single product layout.
+- Add Relevanssi integration for enhanced product search.
+- Add sticky header offset option for improved reveal behavior.
+- Add Elementor support for boxed transparent header layout and live preview of per-page header settings.
+- Allow HTML in Customizer repeater fields.
+- Add Category Marquee Elementor widget.
+- Add sticky position functionality for Elementor widgets and containers.
+
+**Changed**
+
+- Improve Customizer image control UI and fix action buttons after upload.
+
+**Fixed**
+
+- Fix product search suggestions by tokenizing product titles into individual keywords.
+
 ### 1.1.0
 
 **Added**
