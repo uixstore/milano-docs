@@ -7,6 +7,10 @@ sidebar:
 
 You can change the site's fonts from **Appearance → Customize → Global**, under the **Typography** section.
 
+:::tip
+Want to upload custom fonts? Upload your own font files through the WordPress font library (**Appearance → Fonts**), then pick it from the font family list here. This needs **WordPress 7.0 or later** — see [Upload custom fonts](../../how-tos-guides/upload-custom-fonts/) for the full steps.
+:::
+
 ## Body font
 
 The **Main Font** setting controls the font used for body text, paragraphs, and most page content. You can set:
