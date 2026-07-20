@@ -32,6 +32,7 @@ Each entry lists the version number, release date, and changes grouped by type:
 - Allow HTML in Customizer repeater fields.
 - Add Category Marquee Elementor widget.
 - Add sticky position functionality for Elementor widgets and containers.
+- Add product gap setttings for catalog pages.
 
 **Changed**
 
@@ -39,7 +40,7 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 **Fixed**
 
-- Fix product search suggestions by tokenizing product titles into individual keywords.
+- Fix product search suggestions to return individual keywords.
 
 ### 1.1.0
 
