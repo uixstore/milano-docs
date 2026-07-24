@@ -17,6 +17,30 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.3.0
+
+**Added**
+
+- Introduce a new demo: [**Modern Eyewear**](https://eyewear.wpmilano.com/).
+- Add Brand Carousel Elementor widget with styling and controls.
+- Add Category Card Elementor widget.
+- Add Category Grid Elementor widget.
+- Add button animation control to Slideshow widget.
+- Add border control option for Product Tabs header.
+- Add mobile media opt-in for Product Testimonial widget.
+- Add hover animation options for outline buttons.
+
+**Changed**
+
+- Improve product review layout styling.
+- Enhance Brands Marquee widget with combobox source, query settings, and styling options.
+
+**Fixed**
+
+- Fix the issue with product brand in the product meta.
+- Fix Product Testimonial content padding control not working.
+- Fix Gap control selector in some widgets.
+
 ### 1.2.0
 
 **Added**
