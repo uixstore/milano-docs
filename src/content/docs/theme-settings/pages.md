@@ -1,5 +1,5 @@
 ---
-title: Pages
+title: Theme settings for pages
 description: Overview of the Pages panel in the Customizer — page header settings for background image, breadcrumbs, height, and colors.
 sidebar:
   order: 7

@@ -48,6 +48,8 @@ export default defineConfig({
         },
         { label: 'Blog', items: [{ autogenerate: { directory: 'blog' } }] },
 
+        { label: 'Pages', items: [{ autogenerate: { directory: 'pages' } }] },
+
         {
           label: 'Theme Modules',
           items: [{ autogenerate: { directory: 'theme-modules' } }],
