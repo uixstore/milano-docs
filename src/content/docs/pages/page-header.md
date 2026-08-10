@@ -40,6 +40,8 @@ You can override the global page header settings for individual pages using Elem
 2. Click the **gear icon** in the top-left corner to open Page Settings.
 3. Find the **Page Header** section.
 
+![Elementor Page Settings with the Page Header tab showing the display, image, overlay, and style options](../../../assets/pages/page-header-elementor-settings.jpg)
+
 ### Display control
 
 | Setting            | Options                    | What it does                                     |
@@ -63,14 +65,6 @@ You can override the global page header settings for individual pages using Elem
 
 The page header is hidden on that page only. All other pages keep the global setting.
 
-## Breadcrumbs
-
-Breadcrumbs show the navigation path (e.g., Home → Pages → Contact). They help visitors understand where they are on your site.
-
-To turn off breadcrumbs globally, go to **Appearance → Customize → Pages → Page Header** and toggle **Show Breadcrumbs** off.
-
-To hide breadcrumbs on a single page, set **Page Header → Display** to **Disable** in the Elementor Page Settings. This hides the entire page header, including breadcrumbs.
-
 ## Page subtitle
 
 The page header can display a subtitle below the page title. This subtitle uses the page's **excerpt** field.
@@ -83,4 +77,14 @@ To add or edit the subtitle:
 4. Enter your subtitle text.
 5. Click **Update**.
 
+![Elementor Page Settings with the Excerpt field filled in for the page subtitle](../../../assets/pages/page-header-subtitle-edit.jpg)
+
 If the excerpt field is empty, no subtitle appears in the page header.
+
+## Breadcrumbs
+
+Breadcrumbs show the navigation path (e.g., Home → Pages → Contact). They help visitors understand where they are on your site.
+
+To turn off breadcrumbs globally, go to **Appearance → Customize → Pages → Page Header** and toggle **Show Breadcrumbs** off.
+
+To hide breadcrumbs on a single page, set **Page Header → Display** to **Disable** in the Elementor Page Settings. This hides the entire page header, including breadcrumbs.

@@ -21,6 +21,7 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 **Added**
 
+- Introduce two new demos: [**Modern Furniture**](https://furniture.wpmilano.com/) and [**Elegant Furniture**](https://elegant-furniture.wpmilano.com/).
 - Add customizable colors for search field text, background, and border.
 - Add meta display option above the product name in product card.
 - Add "Shop the Look" Elementor widget.
