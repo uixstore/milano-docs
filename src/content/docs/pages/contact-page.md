@@ -25,6 +25,30 @@ Milano doesn't include a built-in form builder. Use a form plugin instead. The t
 3. Copy the shortcode (e.g., `[contact-form-7 id="123" title="Contact form"]`).
 4. Open your contact page and paste the shortcode into a Shortcode block or Elementor's Shortcode widget.
 
+#### Sample form
+
+This is the form template from the Milano demo site. It uses the demo layout classes, so the fields line up with the theme's styles. Paste it into the **Form** tab of the Contact Form 7 editor to recreate the form:
+
+```html
+<div class="form-row mb-4 grid grid-cols-1 md:grid-cols-2 gap-4 trim-children">
+  <p class="my-0">
+    [text* your-name autocomplete:name class:w-full placeholder "Your name*"]
+  </p>
+  <p class="my-0">
+    [email* your-email class:w-full autocomplete:email placeholder "Your email"]
+  </p>
+</div>
+
+<div class="form-row mb-4">
+  [textarea* your-message class:w-full placeholder] Your message* [/textarea*]
+</div>
+<div class="form-row mb-6">
+  [acceptance acceptance-477] I agree to the Privacy Policy of the website.
+  [/acceptance]
+</div>
+<div class="form-row trim-children">[submit "Send"]</div>
+```
+
 ### WPForms
 
 1. Install and activate [WPForms](https://wordpress.org/plugins/wpforms-lite/).
