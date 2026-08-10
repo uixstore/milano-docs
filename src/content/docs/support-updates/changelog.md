@@ -17,6 +17,33 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.4.0
+
+**Added**
+
+- Add customizable colors for search field text, background, and border.
+- Add meta display option above the product name in product card.
+- Add "Shop the Look" Elementor widget.
+- Add default icon control to the Marquee widget.
+- Add text stroke controls and hover effects to the Marquee widget.
+- Add "Card Button" style to category widgets.
+- Add responsive controls for image width and column gap in Image Box widgets.
+- Add content container width options to the Slideshow widget.
+
+**Changed**
+
+- Improve RTL support with logical properties for padding, margin, and text alignment.
+- Enhance Lookbook Slideshow with viewport and slider settings and rename it to Lookbook Slider.
+- Enhance Category Carousel with manual category selection and custom image, title, and description controls.
+
+**Fixed**
+
+- Fix account navigation on mobile that has no gap.
+- Fix mobile menu drawer z-index with admin bar.
+- Fix builder layout configurations to include color property.
+- Fix button color controls not applying to the Link button style.
+- Fix Banner Image Carousel widget styling.
+
 ### 1.3.0
 
 **Added**
