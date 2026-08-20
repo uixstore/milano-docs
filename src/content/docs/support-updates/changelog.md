@@ -17,6 +17,30 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.5.0
+
+**Added**
+
+- Introduce a new demo: [**Smart Furniture**](https://digital.wpmilano.com/).
+- Add "Stock Progress Bar" module: a low-stock urgency bar on the product page with a Customizer position setting, per-product initial stock, and an option to hide the default WooCommerce stock text.
+
+**Changed**
+
+- Update the product widgets and Product Tabs with full WooCommerce catalog sorting (price, popularity, rating).
+- Update the Product With Banner widget with a title field and columns gap control.
+- Update the Countdown widget with countdown mode selection and loop duration controls.
+- Update the Banner Image widget with a control to fill container height.
+
+**Fixed**
+
+- Fix the Default order option not applying in the category and brand widgets.
+- Fix HTML stripped from product info and other rich-text fields in the Customizer.
+- Fix toast notification background color variable for consistency.
+- Fix variation image lookup incorrectly matching video, 3D, and 360 gallery slides.
+- Fix mobile header icon labels showing when desktop display is set to icon and text.
+- Fix slider no-touch-move option being applied on mobile viewports, stranding visitors on a slide.
+- Fix product meta alignment in the product summary.
+
 ### 1.4.0
 
 **Added**
