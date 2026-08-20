@@ -153,6 +153,15 @@ Show a countdown timer on products that are on sale. Useful for creating urgency
 Turn on **Loop timer** for stores that run ongoing sales. The timer resets for each visitor, creating urgency without requiring a real end date.
 :::
 
+## Stock progress bar
+
+Show a progress bar that tells customers how few items are left in stock, to create urgency.
+
+1. Turn on the **Stock Progress Bar** module under **Milano Dashboard → Modules**.
+2. Set the **Position** — where the bar appears: After Price, After Short Description, Before Add to Cart (default), After Add to Cart, or After Meta.
+
+The threshold, messages, and per-product overrides live in **WooCommerce → Settings → Products → Inventory**. See [Stock Progress Bar](../../theme-modules/stock-progress-bar/) for the full setup.
+
 ## Product badges
 
 Show badges on product thumbnails in the shop loop and on single product pages. All badge settings live under **Appearance → Customize → Store → Badges**.
