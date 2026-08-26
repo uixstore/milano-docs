@@ -17,6 +17,27 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.6.0
+
+**Added**
+
+- Add [**Timeless Jewelry**](https://jewelry.wpmilano.com/) template.
+- Add [**Luxury Jewelry**](https://luxury-jewelry.wpmilano.com/) template.
+- Add Newsletter form: a built-in subscribe form available as an Elementor widget and a WordPress widget.
+- Add "Zoom out" content animation to the Slideshow widget.
+- Add Yoast SEO and Rank Math breadcrumb integrations.
+- Add option for the default state of footer widget accordions on mobile.
+
+**Changed**
+
+- Improve product list widget styling.
+- Update mega menu Banner Image button to use the white variant.
+
+**Fixed**
+
+- Fix footer widget styling to remove the bottom border.
+- Fix hide link and hide title options for mega menu items.
+
 ### 1.5.0
 
 **Added**
