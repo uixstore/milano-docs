@@ -19,16 +19,12 @@ Footer widget areas are named after their row: **Footer Top**, **Footer Middle**
 
 ## Common footer widgets
 
-| Widget                 | What it does                                        |
-| ---------------------- | --------------------------------------------------- |
-| **Recent Posts**       | Shows your latest blog posts with dates.            |
-| **Pages**              | Lists your site pages as links.                     |
-| **Product Categories** | Lists your WooCommerce categories.                  |
-| **Custom HTML**        | Any HTML content — newsletter forms, badges, etc.   |
-| **Navigation Menu**    | Display a specific menu in the footer.              |
-| **Social Icons**       | Links to social media profiles with platform icons. |
-
-## Related settings
-
-- [Footer builder](./footer-builder/) — add the Widgets element to a footer row
-- [Footer settings](../theme-settings/footer/) — customize footer colors and layout
+| Widget                  | What it does                                        |
+| ----------------------- | --------------------------------------------------- |
+| **Recent Posts**        | Shows your latest blog posts with dates.            |
+| **Pages**               | Lists your site pages as links.                     |
+| **Product Categories**  | Lists your WooCommerce categories.                  |
+| **Custom HTML**         | Any HTML content — newsletter forms, badges, etc.   |
+| **Milano - Newsletter** | Show a newsletter signup form in the footer.        |
+| **Navigation Menu**     | Display a specific menu in the footer.              |
+| **Social Icons**        | Links to social media profiles with platform icons. |
