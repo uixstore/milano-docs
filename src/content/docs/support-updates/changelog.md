@@ -17,6 +17,46 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.7.0
+
+**Added**
+
+- Introduce two new demos: [**Prime Market**](https://market.wpmilano.com/) and [**Premium Market**](https://premium-market.wpmilano.com/).
+- Add support for the new Variation gallery feature introduced in WooCommerce 11.1.
+- Add "Product Sets" module: per-product sets pairing the main item with up to three complementary products, shown as a carousel on the product page.
+- Add Button Marquee widget with customizable items and theme button styles.
+- Add Inline Image Heading widget with token-based image spots.
+- Add Fade Edges option to Marquee and Button Marquee widgets.
+- Add an Inline layout option to the Countdown widget.
+- Add customizable heading options to Product Tabs widget.
+- Add Media Beside layout to Product Testimonial widget.
+- Add product count to the Card v2 category layout.
+- Add Input style controls to the Newsletter Form widget.
+- Add primary color customization option for header rows.
+- Add option to show the post author bio.
+
+**Changed**
+
+- Improve browse categories component with mega menu and submenu support.
+- Improve mega menu layout with better row spacing.
+- Improve search field and header categories customization options.
+- Improve the style of WooCommerce My Account and order pages.
+- Improve theme styling for the WooCommerce Cart and Checkout blocks.
+- Load theme base styles and fonts in the block editor canvas.
+
+**Fixed**
+
+- Fix mega menu alignment.
+- Fix mobile menu with sub-menu not scrollable.
+- Fix low-res card image swap for variation-image swatches module.
+- Fix Newsletter Form widget button type, size and animation settings not applying.
+- Fix fatal error in the Products Filter widget on incomplete filters.
+- Fix product gallery not switching correctly with WooCommerce variations in the Product Single widget.
+- Fix the add to cart label being hidden in shoppable video modals.
+- Fix inconsistent product title styling across product widgets.
+- Fix the Featured Product countdown not aligning with the summary text alignment.
+- Fix Slideshow widget background bleeding past rounded corners.
+
 ### 1.6.0
 
 **Added**
