@@ -15,6 +15,7 @@ The Single Product Page section gives you control over every element a customer 
 - [Product summary](./product-summary/) — Toggle summary elements, social-proof features, share buttons, and safe checkout.
 - [Product reviews](./product-reviews/) — Show a rating summary, star histogram, and standalone review section.
 - [Product variations and swatches](./product-variations-and-swatches/) — Display product attributes as color, image, or label swatches.
+- [Add gallery images to variations](./variation-image-galleries/) — Give each variation its own image gallery.
 - [Product recommendations](./product-recommendations/) — Show cross-sells, up-sells, and best-sellers on product and cart pages.
 
 ## Layout
