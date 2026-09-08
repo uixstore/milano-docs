@@ -46,6 +46,40 @@ To use a third-party form:
 
 The modal will render your form instead of the default one.
 
+### Sample Contact Form 7 form
+
+If you use Contact Form 7, paste the following code into the **Form** tab when you create or edit your form at **Contact → Contact Forms**:
+
+```html
+<div class="form-row mb-4 grid grid-cols-1 md:grid-cols-2 gap-4 trim-children">
+  <p class="my-0">
+    [text* your-name autocomplete:name class:w-full placeholder "Your name*"]
+  </p>
+  <p class="my-0">
+    [tel your-phone class:w-full placeholder "Your phone number"]
+  </p>
+</div>
+
+<div class="form-row mb-4">
+  [email* your-email autocomplete:email class:w-full placeholder "Your email*"]
+</div>
+
+<div class="form-row mb-4">
+  [textarea* your-message class:w-full placeholder] Your message* [/textarea*]
+</div>
+
+<div class="form-row trim-children">
+  <p class="text-sm text-gray-dark">* Required fields cannot be left blank.</p>
+  [submit class:w-full "Send Your Message"]
+</div>
+```
+
+After you save the form, copy its shortcode (for example `[contact-form-7 id="123" title="Ask a Question"]`) and paste it into the **Form Shortcode** field in the Customizer.
+
+:::tip
+The classes like `form-row`, `grid`, and `w-full` match Milano's modal styling. You can keep them as-is or adjust the layout to fit your needs.
+:::
+
 ## Requirements
 
 - WooCommerce must be installed and active.
