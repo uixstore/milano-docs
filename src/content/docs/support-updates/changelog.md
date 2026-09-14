@@ -17,6 +17,44 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.8.0
+
+**Added**
+
+- Introduce four new demos: [**Happy Pets**](https://pets.wpmilano.com/), [**Fashion Elite**](https://fashion-elite.wpmilano.com/), [**Mega Digital**](https://mega-digital.wpmilano.com/), and [**Pure Skincare**](https://skincare.wpmilano.com/) with one-click import.
+- Add option to make any desktop header row sticky on its own — top, main, or bottom — with smoother reveal on scroll up.
+- Add Recently Viewed component to the header builder.
+- Add sale marquee animation for product cards.
+- Add option to turn the border on or off for the Modern product card.
+- Add bottom-bar navigation style for the product gallery lightbox.
+- Add autoplay speed control for the topbar announcements slider.
+- Add "Bundled Products" Elementor widget: add shoppable hotspots to a lifestyle image with a product list, "Shop This Bundle" button, and optional Quick View.
+- Add "Image Comparison Slider" Elementor widget for before/after reveals.
+- Add "Image Tabs" Elementor widget to swap the paired image when you hover a tab.
+- Add Modern design to the Blog Posts widget.
+- Add background, padding, and rounded corners controls to Image Box and Image Box Carousel, with per-item style overrides.
+- Add slide ratio control to the Lookbook Slider so height adapts per breakpoint.
+
+**Changed**
+
+- Improve Quick View to work from Elementor widgets and fully support variable products.
+- Improve header menu spacing and logo alignment.
+- Improve Product Sets to keep the exact product order you pick.
+
+**Fixed**
+
+- Fix Customizer controls disappearing when switching tabs.
+- Fix search drawer overlapping header rows, including sticky rows.
+- Fix AJAX add to cart breaking grouped product forms.
+- Fix footer input borders not matching the footer border color.
+- Fix wrong header icon color with a transparent header.
+- Fix wrong variation info showing in product grids.
+- Fix quick-add button losing its icon-only layout for standalone variations.
+- Fix Product Sets missing products set to search-only visibility.
+- Fix Size Guide saving that corrupts tables and formatted text.
+- Fix Icon Box alignment and shrinking icons.
+- Fix Category Marquee item alignment and item width limit.
+
 ### 1.7.0
 
 **Added**
