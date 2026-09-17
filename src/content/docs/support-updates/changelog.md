@@ -17,6 +17,25 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.9.0
+
+**Added**
+
+- Introduce four new demos: [**Muscle Nutrition**](https://muscle-nutrition.wpmilano.com/), [**Men's Luxury**](https://men-luxury.wpmilano.com/), [**Glam Beauty**](https://glam-beauty.wpmilano.com/), and [**Active Sport**](https://active-sport.wpmilano.com/) with one-click import.
+- Add text-transform control to typography settings, with separate controls for body text and headings.
+- Add full typography settings — weight, size, letter-spacing, and text-transform — for product card and category card titles, replacing the product name size slider.
+- Add Fill Sides hover animation option for outline buttons.
+- Add Name, Location, Published Date, and Rating controls to the Quote Slider widget.
+- Add spacing control for the logos pagination in the Quote Slider widget.
+- Add hover transition effect to the Card v2 category layout.
+
+**Fixed**
+
+- Fix disclosure dropdowns, such as the shop orderby selector, inheriting the global text-transform setting instead of keeping their intended casing.
+- Fix post tag buttons using an invalid text-transform value.
+- Fix vertical marquee height that stylesheet rules could not override after auto-sizing.
+- Fix Card v2 category count rendering outside the title, causing inconsistent alignment.
+
 ### 1.8.0
 
 **Added**
