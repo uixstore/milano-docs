@@ -25,9 +25,7 @@ WooCommerce 11.1 turns this feature on for all stores. There is no setting to tu
 5. Drag the thumbnails to reorder them. The first image becomes the main image of that variation.
 6. Click **Save changes**, then click **Update** to save the product.
 
-![Variation row expanded with the Variation gallery field showing three thumbnails and the first marked as main](../../../assets/shared/placeholder.svg)
-
-_Placeholder: WP admin, Products edit screen, one variation row expanded, Variation gallery field with hero + two thumbs. Replace with the real photo later._
+![Variation row expanded with the Variation gallery field showing three thumbnails and the first marked as main](../../../assets/single-product/variation-gallery-edit.png)
 
 :::tip
 Add at least two images per variation you want to highlight. Shoppers see the difference right away when the gallery swaps.
@@ -50,9 +48,7 @@ Milano replaces the product gallery with the selected variation gallery.
 - When a variation has no images, Milano keeps showing the parent product gallery.
 - Zoom, lightbox, and thumbnail settings from **Appearance → Customize → Product Page → Gallery** apply to variation galleries.
 
-![Product page showing the gallery after a Blue color variation is selected with three variation-specific images](../../../assets/shared/placeholder.svg)
-
-_Placeholder: frontend product page, color variation selected, gallery showing variation images only. Replace with the real photo later._
+![Product page showing the gallery after a Blue color variation is selected with three variation-specific images](../../../assets/single-product/variation-gallery-frontend.gif)
 
 :::note
 If you used the Additional Variation Images extension before, WooCommerce copies those images in the background after you update. Large catalogs need time to finish. Check progress under **WooCommerce → Status → Scheduled Actions** in the `woocommerce-db-updates` group.
