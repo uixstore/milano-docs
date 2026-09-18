@@ -48,9 +48,7 @@ A global product attribute is a reusable option set you assign to any product. C
    - **Button** — buttons with the term name.
 4. Click **Add attribute**.
 
-![Add attribute form with Name set to Color and Type set to Color](../../../assets/shared/placeholder.svg)
-
-<!-- TODO(screenshot): capture Products → Attributes Add attribute form with Color example, 1440px window, 2x, crop to admin pane -->
+![Add attribute form with Name set to Color and Type set to Color](../../../assets/single-product/swatches-setup-type.png)
 
 ### Step 2 — Set the color, image, or label for each term
 
@@ -68,9 +66,7 @@ Each attribute holds terms (the individual options). You set the visual value on
 3. Click **Add new Color** (the button uses your attribute name) to save the term.
 4. To update a term later, hover its name, click **Edit**, change the value, then click **Update**.
 
-![Configure terms screen with color picker for the Red term](../../../assets/shared/placeholder.svg)
-
-<!-- TODO(screenshot): capture Configure terms screen for Color attribute with color picker visible -->
+![Configure terms screen with color picker for the Red term](../../../assets/single-product/swatches-setup-color.png)
 
 ### Step 3 — Assign the attribute to your products
 
