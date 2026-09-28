@@ -28,6 +28,11 @@ Each entry lists the version number, release date, and changes grouped by type:
 - Add Name, Location, Published Date, and Rating controls to the Quote Slider widget.
 - Add spacing control for the logos pagination in the Quote Slider widget.
 - Add hover transition effect to the Card v2 category layout.
+- Add product source option — All, Featured, On Sale, Best Selling, and Top Rated — to Product Grid, Product List, Product Carousel, Product Marquee, and to each tab in Product Tabs.
+
+**Changed**
+
+- Improve product widgets to exclude hidden catalog products, and out-of-stock products when your store hides them, to match the WooCommerce shortcode.
 
 **Fixed**
 
@@ -35,6 +40,7 @@ Each entry lists the version number, release date, and changes grouped by type:
 - Fix post tag buttons using an invalid text-transform value.
 - Fix vertical marquee height that stylesheet rules could not override after auto-sizing.
 - Fix Card v2 category count rendering outside the title, causing inconsistent alignment.
+- Fix Popup Builder templates showing in every language when you use WPML.
 
 ### 1.8.0
 
