@@ -17,6 +17,17 @@ Each entry lists the version number, release date, and changes grouped by type:
 
 ## Version history
 
+### 1.10.0
+
+**Added**
+
+- Add "Frequently Bought Together" module: add the product and hand-picked companions to the cart in one click, with an optional bundle discount.
+- Add WPML translation support for product tabs, size guides, model profiles, the Buy Now redirect page, and the Free Shipping Bar and Ask a Question settings.
+
+**Fixed**
+
+- Fix product card video not rendering when the legacy video URL is not a direct video file.
+
 ### 1.9.0
 
 **Added**
