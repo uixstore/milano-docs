@@ -30,6 +30,7 @@ Milano comes with modules you can turn on or off from the Theme Dashboard. Some 
 - [Catalog Mode](./catalog-mode/) — Turn your store into a product showcase.
 - [Complementary Products](./complementary-products/) — Show hand-picked "pairs well with" items.
 - [Product Sets](./product-sets/) — Showcase curated sets of complementary products as a carousel.
+- [Frequently Bought Together](./frequently-bought-together/) — Add a product and its hand-picked companions to the cart in one click.
 - [Stock Progress Bar](./stock-progress-bar/) — Show how few items are left in stock.
 - [Live Sales Notification](./live-sales-notification/) — Show fake purchase popups to build social proof.
 
